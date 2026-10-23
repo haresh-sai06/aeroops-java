@@ -4,3 +4,4 @@ target/
 *.iml
 .env
 loadtest/*.raw.json
+otel-out/

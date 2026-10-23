@@ -1,0 +1,14 @@
+# Docker-free variant used on the dev box to verify export: writes received spans/metrics to JSON files.
+receivers:
+  otlp:
+    protocols:
+      http: { endpoint: 127.0.0.1:4318 }
+processors:
+  batch: {}
+exporters:
+  file/traces: { path: ./otel-out/traces.json }
+  file/metrics: { path: ./otel-out/metrics.json }
+service:
+  pipelines:
+    traces: { receivers: [otlp], processors: [batch], exporters: [file/traces] }
+    metrics: { receivers: [otlp], processors: [batch], exporters: [file/metrics] }

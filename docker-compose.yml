@@ -1,0 +1,38 @@
+# Local stack: app + Postgres + Redis + OpenTelemetry Collector (+ Jaeger UI for traces).
+# Credentials below are local-dev defaults only; override via env / secrets in any real deployment.
+services:
+  app:
+    build: .
+    ports: ["8080:8080"]
+    environment:
+      DB_URL: jdbc:postgresql://postgres:5432/aeroops
+      DB_USER: aeroops
+      DB_PASSWORD: ${DB_PASSWORD:-aeroops}
+      REDIS_HOST: redis
+      OTEL_TRACES_ENDPOINT: http://otel-collector:4318/v1/traces
+      OTEL_METRICS_ENABLED: "true"
+      OTEL_METRICS_ENDPOINT: http://otel-collector:4318/v1/metrics
+    depends_on:
+      postgres: { condition: service_healthy }
+      redis: { condition: service_healthy }
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: aeroops
+      POSTGRES_USER: aeroops
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-aeroops}
+    ports: ["5432:5432"]
+    healthcheck: { test: ["CMD-SHELL", "pg_isready -U aeroops"], interval: 5s, retries: 10 }
+  redis:
+    image: redis:7-alpine
+    command: ["redis-server", "--maxmemory", "256mb", "--maxmemory-policy", "allkeys-lru"]
+    ports: ["6379:6379"]
+    healthcheck: { test: ["CMD", "redis-cli", "ping"], interval: 5s, retries: 10 }
+  otel-collector:
+    image: otel/opentelemetry-collector-contrib:0.111.0
+    command: ["--config=/etc/otel/collector.yaml"]
+    volumes: ["./deploy/otel/collector.yaml:/etc/otel/collector.yaml:ro"]
+    ports: ["4317:4317", "4318:4318", "8889:8889"]
+  jaeger:
+    image: jaegertracing/all-in-one:1.62.0
+    ports: ["16686:16686"]

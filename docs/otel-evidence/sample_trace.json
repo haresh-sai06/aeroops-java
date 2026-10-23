@@ -1,0 +1,106 @@
+{
+ "resource": {
+  "attributes": [
+   {
+    "key": "service.name",
+    "value": {
+     "stringValue": "aeroops-java"
+    }
+   },
+   {
+    "key": "telemetry.sdk.language",
+    "value": {
+     "stringValue": "java"
+    }
+   },
+   {
+    "key": "telemetry.sdk.name",
+    "value": {
+     "stringValue": "opentelemetry"
+    }
+   },
+   {
+    "key": "telemetry.sdk.version",
+    "value": {
+     "stringValue": "1.37.0"
+    }
+   }
+  ]
+ },
+ "spans": [
+  {
+   "traceId": "7e156c7c3d4d73857230231eb6892eb1",
+   "spanId": "c1eae71cebb81f25",
+   "parentSpanId": "551b9a4a13855f88",
+   "flags": 1,
+   "name": "predict-delay",
+   "kind": 1,
+   "startTimeUnixNano": "1792722024577515808",
+   "endTimeUnixNano": "1792722024610739952",
+   "attributes": [
+    {
+     "key": "class",
+     "value": {
+      "stringValue": "com.aeroops.predict.DelayPredictionService"
+     }
+    },
+    {
+     "key": "method",
+     "value": {
+      "stringValue": "predict"
+     }
+    }
+   ],
+   "status": {}
+  },
+  {
+   "traceId": "7e156c7c3d4d73857230231eb6892eb1",
+   "spanId": "551b9a4a13855f88",
+   "parentSpanId": "",
+   "flags": 1,
+   "name": "http post /api/v1/predict/delay",
+   "kind": 2,
+   "startTimeUnixNano": "1792722024527229110",
+   "endTimeUnixNano": "1792722024613093654",
+   "attributes": [
+    {
+     "key": "exception",
+     "value": {
+      "stringValue": "none"
+     }
+    },
+    {
+     "key": "http.url",
+     "value": {
+      "stringValue": "/api/v1/predict/delay"
+     }
+    },
+    {
+     "key": "method",
+     "value": {
+      "stringValue": "POST"
+     }
+    },
+    {
+     "key": "outcome",
+     "value": {
+      "stringValue": "SUCCESS"
+     }
+    },
+    {
+     "key": "status",
+     "value": {
+      "stringValue": "200"
+     }
+    },
+    {
+     "key": "uri",
+     "value": {
+      "stringValue": "/api/v1/predict/delay"
+     }
+    }
+   ],
+   "status": {}
+  }
+ ]
+}
