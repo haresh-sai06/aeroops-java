@@ -1,0 +1,57 @@
+spring:
+  application:
+    name: aeroops-java
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://localhost:5432/aeroops}
+    username: ${DB_USER:aeroops}
+    password: ${DB_PASSWORD:aeroops}
+    hikari:
+      maximum-pool-size: 10
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
+  flyway:
+    enabled: true
+  data:
+    redis:
+      host: ${REDIS_HOST:localhost}
+      port: ${REDIS_PORT:6379}
+      timeout: 200ms
+  threads:
+    virtual:
+      enabled: false
+
+aeroops:
+  model-dir: ${AEROOPS_MODEL_DIR:classpath:models/}
+  cache:
+    ttl: ${CACHE_TTL:PT10M}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info,prometheus,metrics
+  endpoint:
+    health:
+      probes:
+        enabled: true
+  metrics:
+    distribution:
+      percentiles-histogram:
+        http.server.requests: true
+  tracing:
+    sampling:
+      probability: ${TRACE_SAMPLING:1.0}
+  otlp:
+    tracing:
+      endpoint: ${OTEL_TRACES_ENDPOINT:http://localhost:4318/v1/traces}
+    metrics:
+      export:
+        enabled: ${OTEL_METRICS_ENABLED:false}
+        url: ${OTEL_METRICS_ENDPOINT:http://localhost:4318/v1/metrics}
+        step: 15s
+
+logging:
+  pattern:
+    level: "%5p [${spring.application.name:},%X{traceId:-},%X{spanId:-}]"

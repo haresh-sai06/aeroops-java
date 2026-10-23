@@ -1,0 +1,7211 @@
+[
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "GPT",
+   "dest": "BUR",
+   "flight_date": "2024-04-22",
+   "dep_hour": 23,
+   "distance": 2506.7
+  },
+  "probability": 0.4092036783695221,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "GCK",
+   "dest": "ALW",
+   "flight_date": "2024-04-18",
+   "dep_hour": 6,
+   "distance": 2027.6,
+   "prev_leg_arr_delay": 58.1,
+   "prev_leg_dep_delay": 72.6,
+   "leg_of_day": 3
+  },
+  "probability": 0.6744000911712646,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "DAB",
+   "dest": "LAX",
+   "flight_date": "2024-04-09",
+   "dep_hour": 4,
+   "distance": 665.7,
+   "prev_leg_arr_delay": -8.5,
+   "prev_leg_dep_delay": 59.1,
+   "leg_of_day": 3
+  },
+  "probability": 0.3721460998058319,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "AVP",
+   "dest": "SAV",
+   "flight_date": "2024-04-04",
+   "dep_hour": 12,
+   "distance": 294.3
+  },
+  "probability": 0.3771445155143738,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "SMF",
+   "dest": "BJI",
+   "flight_date": "2024-04-02",
+   "dep_hour": 21,
+   "distance": 699.9
+  },
+  "probability": 0.3642631769180298,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "MCO",
+   "dest": "VCT",
+   "flight_date": "2024-04-27",
+   "dep_hour": 11,
+   "distance": 522.4,
+   "prev_leg_arr_delay": 110.7,
+   "prev_leg_dep_delay": 121.9,
+   "leg_of_day": 6
+  },
+  "probability": 0.8917431235313416,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "SAT",
+   "dest": "DAY",
+   "flight_date": "2024-04-15",
+   "dep_hour": 12,
+   "distance": 814.3,
+   "prev_leg_arr_delay": 114.5,
+   "prev_leg_dep_delay": 27.8,
+   "leg_of_day": 3
+  },
+  "probability": 0.9043968319892883,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "APN",
+   "dest": "MIA",
+   "flight_date": "2024-04-09",
+   "dep_hour": 2,
+   "distance": 653.9,
+   "prev_leg_arr_delay": 154.0,
+   "prev_leg_dep_delay": 46.4,
+   "leg_of_day": 6
+  },
+  "probability": 0.8973634243011475,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "PBI",
+   "dest": "CNY",
+   "flight_date": "2024-04-08",
+   "dep_hour": 23,
+   "distance": 1606.9
+  },
+  "probability": 0.288933128118515,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "LIH",
+   "dest": "CMX",
+   "flight_date": "2024-04-17",
+   "dep_hour": 15,
+   "distance": 327.3
+  },
+  "probability": 0.204586461186409,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "MSP",
+   "dest": "MDW",
+   "flight_date": "2024-04-13",
+   "dep_hour": 19,
+   "distance": 2789.5,
+   "prev_leg_arr_delay": 173.9,
+   "prev_leg_dep_delay": 152.9,
+   "leg_of_day": 1
+  },
+  "probability": 0.6292563676834106,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "SAV",
+   "dest": "VPS",
+   "flight_date": "2024-04-11",
+   "dep_hour": 3,
+   "distance": 878.3
+  },
+  "probability": 0.39370161294937134,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "GUC",
+   "dest": "DLH",
+   "flight_date": "2024-04-17",
+   "dep_hour": 3,
+   "distance": 2447.8
+  },
+  "probability": 0.6352283954620361,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "MAF",
+   "dest": "SBN",
+   "flight_date": "2024-04-25",
+   "dep_hour": 16,
+   "distance": 2578.3,
+   "prev_leg_arr_delay": 72.6,
+   "prev_leg_dep_delay": 6.8,
+   "leg_of_day": 3
+  },
+  "probability": 0.901308000087738,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "GGG",
+   "dest": "SJC",
+   "flight_date": "2024-04-03",
+   "dep_hour": 2,
+   "distance": 2070.8,
+   "prev_leg_arr_delay": 175.4,
+   "prev_leg_dep_delay": 88.9,
+   "leg_of_day": 2
+  },
+  "probability": 0.6887925863265991,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "DCA",
+   "dest": "SWO",
+   "flight_date": "2024-04-14",
+   "dep_hour": 6,
+   "distance": 2606.6,
+   "prev_leg_arr_delay": 114.9,
+   "prev_leg_dep_delay": 124.0,
+   "leg_of_day": 4
+  },
+  "probability": 0.7502564191818237,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "RKS",
+   "dest": "GRB",
+   "flight_date": "2024-04-08",
+   "dep_hour": 2,
+   "distance": 999.6,
+   "prev_leg_arr_delay": 18.3,
+   "prev_leg_dep_delay": 27.9,
+   "leg_of_day": 1
+  },
+  "probability": 0.20402927696704865,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "APN",
+   "dest": "BLI",
+   "flight_date": "2024-04-17",
+   "dep_hour": 7,
+   "distance": 837.5,
+   "prev_leg_arr_delay": 83.2,
+   "prev_leg_dep_delay": 126.1,
+   "leg_of_day": 5
+  },
+  "probability": 0.8758854269981384,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "MLI",
+   "dest": "BTR",
+   "flight_date": "2024-04-22",
+   "dep_hour": 13,
+   "distance": 1043.7,
+   "prev_leg_arr_delay": 151.4,
+   "prev_leg_dep_delay": -4.4,
+   "leg_of_day": 6
+  },
+  "probability": 0.9314066767692566,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "LAW",
+   "dest": "CAE",
+   "flight_date": "2024-04-08",
+   "dep_hour": 6,
+   "distance": 597.4,
+   "prev_leg_arr_delay": 58.6,
+   "prev_leg_dep_delay": 39.3,
+   "leg_of_day": 2
+  },
+  "probability": 0.9177777767181396,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "SDF",
+   "dest": "YUM",
+   "flight_date": "2024-04-18",
+   "dep_hour": 0,
+   "distance": 2715.7,
+   "prev_leg_arr_delay": 148.2,
+   "prev_leg_dep_delay": 17.4,
+   "leg_of_day": 4
+  },
+  "probability": 0.9038197994232178,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "BGR",
+   "dest": "ABI",
+   "flight_date": "2024-04-13",
+   "dep_hour": 8,
+   "distance": 2600.1,
+   "prev_leg_arr_delay": 29.9,
+   "prev_leg_dep_delay": 120.8,
+   "leg_of_day": 6
+  },
+  "probability": 0.7434284090995789,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "PSE",
+   "dest": "ICT",
+   "flight_date": "2024-04-07",
+   "dep_hour": 1,
+   "distance": 1655.4,
+   "prev_leg_arr_delay": 127.1,
+   "prev_leg_dep_delay": -3.9,
+   "leg_of_day": 5
+  },
+  "probability": 0.8409865498542786,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "CYS",
+   "dest": "RFD",
+   "flight_date": "2024-04-03",
+   "dep_hour": 5,
+   "distance": 266.4
+  },
+  "probability": 0.07460246235132217,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "SJT",
+   "dest": "STS",
+   "flight_date": "2024-04-02",
+   "dep_hour": 19,
+   "distance": 303.0,
+   "prev_leg_arr_delay": 88.7,
+   "prev_leg_dep_delay": 46.7,
+   "leg_of_day": 3
+  },
+  "probability": 0.9432194232940674,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "GUM",
+   "dest": "XNA",
+   "flight_date": "2024-04-10",
+   "dep_hour": 14,
+   "distance": 940.0,
+   "prev_leg_arr_delay": -14.8,
+   "prev_leg_dep_delay": 74.4,
+   "leg_of_day": 5
+  },
+  "probability": 0.11708975583314896,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "RDU",
+   "dest": "LBL",
+   "flight_date": "2024-04-29",
+   "dep_hour": 2,
+   "distance": 2471.6,
+   "prev_leg_arr_delay": 3.1,
+   "prev_leg_dep_delay": 147.6,
+   "leg_of_day": 6
+  },
+  "probability": 0.24649490416049957,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "ABY",
+   "dest": "SFB",
+   "flight_date": "2024-04-10",
+   "dep_hour": 21,
+   "distance": 361.8,
+   "prev_leg_arr_delay": 25.5,
+   "prev_leg_dep_delay": 158.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.25033649802207947,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "FAR",
+   "dest": "EWR",
+   "flight_date": "2024-04-22",
+   "dep_hour": 20,
+   "distance": 2399.9,
+   "prev_leg_arr_delay": 22.7,
+   "prev_leg_dep_delay": 162.1,
+   "leg_of_day": 1
+  },
+  "probability": 0.27095210552215576,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "AVP",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-25",
+   "dep_hour": 4,
+   "distance": 1812.9
+  },
+  "probability": 0.2349623739719391,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "SHR",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-03",
+   "dep_hour": 22,
+   "distance": 2538.7,
+   "prev_leg_arr_delay": 145.3,
+   "prev_leg_dep_delay": 98.6,
+   "leg_of_day": 2
+  },
+  "probability": 0.7750149965286255,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "AUS",
+   "dest": "FAR",
+   "flight_date": "2024-04-22",
+   "dep_hour": 7,
+   "distance": 1894.1,
+   "prev_leg_arr_delay": 87.6,
+   "prev_leg_dep_delay": 155.6,
+   "leg_of_day": 5
+  },
+  "probability": 0.5986559391021729,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "DAY",
+   "dest": "DIK",
+   "flight_date": "2024-04-29",
+   "dep_hour": 13,
+   "distance": 147.4,
+   "prev_leg_arr_delay": 39.8,
+   "prev_leg_dep_delay": 166.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.6977581977844238,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "DAB",
+   "dest": "CAE",
+   "flight_date": "2024-04-13",
+   "dep_hour": 1,
+   "distance": 2415.4
+  },
+  "probability": 0.3516520857810974,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "FSM",
+   "dest": "EKO",
+   "flight_date": "2024-04-13",
+   "dep_hour": 10,
+   "distance": 837.8
+  },
+  "probability": 0.3896501064300537,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "MHT",
+   "dest": "SAV",
+   "flight_date": "2024-04-11",
+   "dep_hour": 0,
+   "distance": 393.7,
+   "prev_leg_arr_delay": 7.5,
+   "prev_leg_dep_delay": 172.7,
+   "leg_of_day": 3
+  },
+  "probability": 0.407517671585083,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "JAC",
+   "dest": "RHI",
+   "flight_date": "2024-04-04",
+   "dep_hour": 12,
+   "distance": 2526.7
+  },
+  "probability": 0.5243614315986633,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "ZZZ",
+   "dest": "SBA",
+   "flight_date": "2024-04-22",
+   "dep_hour": 23,
+   "distance": 2637.5,
+   "prev_leg_arr_delay": 11.4,
+   "prev_leg_dep_delay": 69.1,
+   "leg_of_day": 6
+  },
+  "probability": 0.24397051334381104,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "CIU",
+   "dest": "ILM",
+   "flight_date": "2024-04-17",
+   "dep_hour": 9,
+   "distance": 1893.9,
+   "prev_leg_arr_delay": 116.4,
+   "prev_leg_dep_delay": 93.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.8822084665298462,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "DHN",
+   "dest": "IMT",
+   "flight_date": "2024-04-13",
+   "dep_hour": 17,
+   "distance": 2347.7,
+   "prev_leg_arr_delay": 14.1,
+   "prev_leg_dep_delay": 138.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.472546249628067,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "FAY",
+   "dest": "DEC",
+   "flight_date": "2024-04-22",
+   "dep_hour": 2,
+   "distance": 851.9,
+   "prev_leg_arr_delay": 100.0,
+   "prev_leg_dep_delay": 3.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.48326385021209717,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "CRP",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-08",
+   "dep_hour": 15,
+   "distance": 1742.7,
+   "prev_leg_arr_delay": 65.6,
+   "prev_leg_dep_delay": 157.8,
+   "leg_of_day": 5
+  },
+  "probability": 0.9606833457946777,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "MHT",
+   "dest": "ABQ",
+   "flight_date": "2024-04-29",
+   "dep_hour": 3,
+   "distance": 2197.3
+  },
+  "probability": 0.29392361640930176,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "BDL",
+   "dest": "CID",
+   "flight_date": "2024-04-15",
+   "dep_hour": 4,
+   "distance": 2259.9,
+   "prev_leg_arr_delay": 177.5,
+   "prev_leg_dep_delay": 101.1,
+   "leg_of_day": 4
+  },
+  "probability": 0.8073456883430481,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "MTJ",
+   "dest": "SCK",
+   "flight_date": "2024-04-15",
+   "dep_hour": 5,
+   "distance": 2102.7,
+   "prev_leg_arr_delay": 24.4,
+   "prev_leg_dep_delay": 33.2,
+   "leg_of_day": 6
+  },
+  "probability": 0.15951889753341675,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "TWF",
+   "dest": "OME",
+   "flight_date": "2024-04-03",
+   "dep_hour": 22,
+   "distance": 857.2
+  },
+  "probability": 0.23720873892307281,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "CSG",
+   "dest": "CVG",
+   "flight_date": "2024-04-23",
+   "dep_hour": 6,
+   "distance": 254.7,
+   "prev_leg_arr_delay": 83.9,
+   "prev_leg_dep_delay": 66.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.9323897361755371,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "SPN",
+   "dest": "AEX",
+   "flight_date": "2024-04-28",
+   "dep_hour": 18,
+   "distance": 1114.6
+  },
+  "probability": 0.48245948553085327,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "MSN",
+   "dest": "SCE",
+   "flight_date": "2024-04-26",
+   "dep_hour": 19,
+   "distance": 2522.0,
+   "prev_leg_arr_delay": 27.3,
+   "prev_leg_dep_delay": 79.7,
+   "leg_of_day": 4
+  },
+  "probability": 0.40019696950912476,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "DCA",
+   "dest": "CLE",
+   "flight_date": "2024-04-20",
+   "dep_hour": 17,
+   "distance": 153.3,
+   "prev_leg_arr_delay": 88.5,
+   "prev_leg_dep_delay": -9.7,
+   "leg_of_day": 6
+  },
+  "probability": 0.814355194568634,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "BDL",
+   "dest": "JST",
+   "flight_date": "2024-04-07",
+   "dep_hour": 14,
+   "distance": 969.0,
+   "prev_leg_arr_delay": 49.6,
+   "prev_leg_dep_delay": 131.6,
+   "leg_of_day": 4
+  },
+  "probability": 0.9220439195632935,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "SBN",
+   "dest": "LCH",
+   "flight_date": "2024-04-08",
+   "dep_hour": 20,
+   "distance": 266.6,
+   "prev_leg_arr_delay": -21.5,
+   "prev_leg_dep_delay": -8.9,
+   "leg_of_day": 2
+  },
+  "probability": 0.17849037051200867,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "GGG",
+   "dest": "CDV",
+   "flight_date": "2024-04-19",
+   "dep_hour": 6,
+   "distance": 1344.9
+  },
+  "probability": 0.31075477600097656,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "CDV",
+   "dest": "DAY",
+   "flight_date": "2024-04-10",
+   "dep_hour": 3,
+   "distance": 1654.0,
+   "prev_leg_arr_delay": 90.9,
+   "prev_leg_dep_delay": 162.1,
+   "leg_of_day": 4
+  },
+  "probability": 0.838563084602356,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "STL",
+   "dest": "TXK",
+   "flight_date": "2024-04-08",
+   "dep_hour": 3,
+   "distance": 1976.4,
+   "prev_leg_arr_delay": 113.7,
+   "prev_leg_dep_delay": 142.1,
+   "leg_of_day": 5
+  },
+  "probability": 0.9376088380813599,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "LSE",
+   "dest": "XWA",
+   "flight_date": "2024-04-11",
+   "dep_hour": 0,
+   "distance": 2390.8,
+   "prev_leg_arr_delay": -7.8,
+   "prev_leg_dep_delay": 172.4,
+   "leg_of_day": 6
+  },
+  "probability": 0.39744871854782104,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "OGG",
+   "dest": "ROC",
+   "flight_date": "2024-04-21",
+   "dep_hour": 8,
+   "distance": 1755.3,
+   "prev_leg_arr_delay": 132.7,
+   "prev_leg_dep_delay": 75.7,
+   "leg_of_day": 6
+  },
+  "probability": 0.8873672485351562,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "BQN",
+   "dest": "OTH",
+   "flight_date": "2024-04-08",
+   "dep_hour": 14,
+   "distance": 1630.0,
+   "prev_leg_arr_delay": 40.6,
+   "prev_leg_dep_delay": 81.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.7389610409736633,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "GTF",
+   "dest": "STT",
+   "flight_date": "2024-04-23",
+   "dep_hour": 8,
+   "distance": 1591.8,
+   "prev_leg_arr_delay": 10.1,
+   "prev_leg_dep_delay": 32.1,
+   "leg_of_day": 4
+  },
+  "probability": 0.19888445734977722,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "PIT",
+   "dest": "PSM",
+   "flight_date": "2024-04-15",
+   "dep_hour": 0,
+   "distance": 333.1
+  },
+  "probability": 0.08543141931295395,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "LRD",
+   "dest": "SAF",
+   "flight_date": "2024-04-12",
+   "dep_hour": 13,
+   "distance": 2790.8,
+   "prev_leg_arr_delay": 43.9,
+   "prev_leg_dep_delay": 73.5,
+   "leg_of_day": 3
+  },
+  "probability": 0.614403247833252,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "JAN",
+   "dest": "SAV",
+   "flight_date": "2024-04-25",
+   "dep_hour": 22,
+   "distance": 583.6
+  },
+  "probability": 0.21599753201007843,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "ROW",
+   "dest": "BUF",
+   "flight_date": "2024-04-27",
+   "dep_hour": 6,
+   "distance": 885.8,
+   "prev_leg_arr_delay": 33.5,
+   "prev_leg_dep_delay": 123.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.2841861844062805,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "CKB",
+   "dest": "PSM",
+   "flight_date": "2024-04-04",
+   "dep_hour": 0,
+   "distance": 1641.5,
+   "prev_leg_arr_delay": 62.5,
+   "prev_leg_dep_delay": 21.0,
+   "leg_of_day": 1
+  },
+  "probability": 0.39474597573280334,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "BIL",
+   "dest": "BLV",
+   "flight_date": "2024-04-19",
+   "dep_hour": 20,
+   "distance": 1947.1
+  },
+  "probability": 0.3502572774887085,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "GRI",
+   "dest": "MRY",
+   "flight_date": "2024-04-20",
+   "dep_hour": 19,
+   "distance": 2230.8
+  },
+  "probability": 0.27621710300445557,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "IDA",
+   "dest": "MYR",
+   "flight_date": "2024-04-10",
+   "dep_hour": 18,
+   "distance": 1769.2,
+   "prev_leg_arr_delay": 125.4,
+   "prev_leg_dep_delay": 169.8,
+   "leg_of_day": 2
+  },
+  "probability": 0.8423427939414978,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "CYS",
+   "dest": "SEA",
+   "flight_date": "2024-04-03",
+   "dep_hour": 5,
+   "distance": 87.3,
+   "prev_leg_arr_delay": 94.7,
+   "prev_leg_dep_delay": 41.8,
+   "leg_of_day": 2
+  },
+  "probability": 0.7657171487808228,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "PAE",
+   "dest": "GCK",
+   "flight_date": "2024-04-30",
+   "dep_hour": 8,
+   "distance": 2222.9,
+   "prev_leg_arr_delay": 108.8,
+   "prev_leg_dep_delay": 167.1,
+   "leg_of_day": 4
+  },
+  "probability": 0.6881760954856873,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "HDN",
+   "dest": "BLI",
+   "flight_date": "2024-04-02",
+   "dep_hour": 5,
+   "distance": 2235.9,
+   "prev_leg_arr_delay": 143.1,
+   "prev_leg_dep_delay": 164.6,
+   "leg_of_day": 4
+  },
+  "probability": 0.9296974539756775,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "MKE",
+   "dest": "RAP",
+   "flight_date": "2024-04-18",
+   "dep_hour": 15,
+   "distance": 1270.7,
+   "prev_leg_arr_delay": 156.8,
+   "prev_leg_dep_delay": 128.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.8355346918106079,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "SLN",
+   "dest": "AEX",
+   "flight_date": "2024-04-25",
+   "dep_hour": 21,
+   "distance": 2314.3,
+   "prev_leg_arr_delay": 130.3,
+   "prev_leg_dep_delay": 19.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.8368680477142334,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "SPN",
+   "dest": "PSM",
+   "flight_date": "2024-04-03",
+   "dep_hour": 15,
+   "distance": 1026.5,
+   "prev_leg_arr_delay": 110.7,
+   "prev_leg_dep_delay": 152.3,
+   "leg_of_day": 3
+  },
+  "probability": 0.6426181197166443,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "MIA",
+   "dest": "SDF",
+   "flight_date": "2024-04-02",
+   "dep_hour": 14,
+   "distance": 319.5
+  },
+  "probability": 0.6449534296989441,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "RIW",
+   "dest": "ABE",
+   "flight_date": "2024-04-22",
+   "dep_hour": 17,
+   "distance": 1336.6
+  },
+  "probability": 0.25930872559547424,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "TWF",
+   "dest": "BET",
+   "flight_date": "2024-04-07",
+   "dep_hour": 8,
+   "distance": 1573.9,
+   "prev_leg_arr_delay": 62.0,
+   "prev_leg_dep_delay": 121.2,
+   "leg_of_day": 1
+  },
+  "probability": 0.8820106387138367,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "GGG",
+   "dest": "ITO",
+   "flight_date": "2024-04-18",
+   "dep_hour": 0,
+   "distance": 1582.1
+  },
+  "probability": 0.11957316100597382,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "CHO",
+   "dest": "CVG",
+   "flight_date": "2024-04-16",
+   "dep_hour": 22,
+   "distance": 873.9,
+   "prev_leg_arr_delay": 57.3,
+   "prev_leg_dep_delay": 79.1,
+   "leg_of_day": 4
+  },
+  "probability": 0.5912138223648071,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "EGE",
+   "dest": "RFD",
+   "flight_date": "2024-04-24",
+   "dep_hour": 4,
+   "distance": 2430.2
+  },
+  "probability": 0.1032244935631752,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "RDU",
+   "dest": "ABI",
+   "flight_date": "2024-04-10",
+   "dep_hour": 23,
+   "distance": 892.1,
+   "prev_leg_arr_delay": 179.8,
+   "prev_leg_dep_delay": 80.5,
+   "leg_of_day": 2
+  },
+  "probability": 0.7409822344779968,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "SEA",
+   "dest": "MCI",
+   "flight_date": "2024-04-15",
+   "dep_hour": 10,
+   "distance": 2445.3,
+   "prev_leg_arr_delay": 20.1,
+   "prev_leg_dep_delay": 59.7,
+   "leg_of_day": 4
+  },
+  "probability": 0.7162831425666809,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "MCW",
+   "dest": "YUM",
+   "flight_date": "2024-04-05",
+   "dep_hour": 15,
+   "distance": 2704.3
+  },
+  "probability": 0.22560326755046844,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "OME",
+   "dest": "PBG",
+   "flight_date": "2024-04-01",
+   "dep_hour": 23,
+   "distance": 472.1,
+   "prev_leg_arr_delay": 173.7,
+   "prev_leg_dep_delay": -0.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.8706518411636353,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "BOS",
+   "dest": "SAT",
+   "flight_date": "2024-04-13",
+   "dep_hour": 10,
+   "distance": 1784.9,
+   "prev_leg_arr_delay": 72.5,
+   "prev_leg_dep_delay": 90.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.8603488802909851,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "HYS",
+   "dest": "BRO",
+   "flight_date": "2024-04-14",
+   "dep_hour": 3,
+   "distance": 2148.2,
+   "prev_leg_arr_delay": -8.9,
+   "prev_leg_dep_delay": 17.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.13331259787082672,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "BFL",
+   "dest": "MAF",
+   "flight_date": "2024-04-14",
+   "dep_hour": 4,
+   "distance": 744.2,
+   "prev_leg_arr_delay": 113.2,
+   "prev_leg_dep_delay": 20.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.7615274786949158,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "GJT",
+   "dest": "SPI",
+   "flight_date": "2024-04-05",
+   "dep_hour": 7,
+   "distance": 1334.3
+  },
+  "probability": 0.2415468543767929,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "PHX",
+   "dest": "SCE",
+   "flight_date": "2024-04-06",
+   "dep_hour": 2,
+   "distance": 1281.5,
+   "prev_leg_arr_delay": 93.4,
+   "prev_leg_dep_delay": 109.6,
+   "leg_of_day": 4
+  },
+  "probability": 0.899688184261322,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "ESC",
+   "dest": "PRC",
+   "flight_date": "2024-04-04",
+   "dep_hour": 7,
+   "distance": 1117.3,
+   "prev_leg_arr_delay": 32.1,
+   "prev_leg_dep_delay": 121.4,
+   "leg_of_day": 1
+  },
+  "probability": 0.41618961095809937,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "ABY",
+   "dest": "BDL",
+   "flight_date": "2024-04-30",
+   "dep_hour": 19,
+   "distance": 2106.9,
+   "prev_leg_arr_delay": 159.6,
+   "prev_leg_dep_delay": 136.3,
+   "leg_of_day": 2
+  },
+  "probability": 0.40909481048583984,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "EGE",
+   "dest": "CMX",
+   "flight_date": "2024-04-21",
+   "dep_hour": 3,
+   "distance": 2537.3,
+   "prev_leg_arr_delay": 34.9,
+   "prev_leg_dep_delay": 71.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.7683292627334595,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "ICT",
+   "dest": "MQT",
+   "flight_date": "2024-04-06",
+   "dep_hour": 6,
+   "distance": 439.5,
+   "prev_leg_arr_delay": 174.0,
+   "prev_leg_dep_delay": 88.5,
+   "leg_of_day": 3
+  },
+  "probability": 0.8685378432273865,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "PPG",
+   "dest": "ICT",
+   "flight_date": "2024-04-24",
+   "dep_hour": 10,
+   "distance": 2267.5,
+   "prev_leg_arr_delay": -14.2,
+   "prev_leg_dep_delay": 132.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.04332222789525986,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "MHK",
+   "dest": "SGF",
+   "flight_date": "2024-04-12",
+   "dep_hour": 2,
+   "distance": 2230.7
+  },
+  "probability": 0.43506669998168945,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "GUC",
+   "dest": "VEL",
+   "flight_date": "2024-04-12",
+   "dep_hour": 3,
+   "distance": 1915.6,
+   "prev_leg_arr_delay": 100.1,
+   "prev_leg_dep_delay": 168.9,
+   "leg_of_day": 3
+  },
+  "probability": 0.8852248787879944,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "VCT",
+   "dest": "IMT",
+   "flight_date": "2024-04-21",
+   "dep_hour": 13,
+   "distance": 397.4
+  },
+  "probability": 0.38385382294654846,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "GEG",
+   "dest": "CMI",
+   "flight_date": "2024-04-13",
+   "dep_hour": 14,
+   "distance": 1089.2,
+   "prev_leg_arr_delay": 116.3,
+   "prev_leg_dep_delay": 90.3,
+   "leg_of_day": 5
+  },
+  "probability": 0.9596337676048279,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "BTV",
+   "dest": "TRI",
+   "flight_date": "2024-04-14",
+   "dep_hour": 8,
+   "distance": 169.0,
+   "prev_leg_arr_delay": 63.1,
+   "prev_leg_dep_delay": 170.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.9475778341293335,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "XNA",
+   "dest": "MHK",
+   "flight_date": "2024-04-09",
+   "dep_hour": 6,
+   "distance": 2713.5,
+   "prev_leg_arr_delay": 143.1,
+   "prev_leg_dep_delay": 2.9,
+   "leg_of_day": 2
+  },
+  "probability": 0.9294263124465942,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "BDL",
+   "dest": "GNV",
+   "flight_date": "2024-04-05",
+   "dep_hour": 18,
+   "distance": 638.2,
+   "prev_leg_arr_delay": 86.4,
+   "prev_leg_dep_delay": 99.3,
+   "leg_of_day": 2
+  },
+  "probability": 0.7957695722579956,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "STT",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-28",
+   "dep_hour": 4,
+   "distance": 2766.1,
+   "prev_leg_arr_delay": 137.7,
+   "prev_leg_dep_delay": 6.4,
+   "leg_of_day": 1
+  },
+  "probability": 0.7962304353713989,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "GFK",
+   "dest": "ADK",
+   "flight_date": "2024-04-06",
+   "dep_hour": 8,
+   "distance": 222.5,
+   "prev_leg_arr_delay": 80.5,
+   "prev_leg_dep_delay": 130.4,
+   "leg_of_day": 4
+  },
+  "probability": 0.8239603042602539,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "CAE",
+   "dest": "FNT",
+   "flight_date": "2024-04-20",
+   "dep_hour": 1,
+   "distance": 2058.1,
+   "prev_leg_arr_delay": 108.4,
+   "prev_leg_dep_delay": 43.8,
+   "leg_of_day": 6
+  },
+  "probability": 0.8797939419746399,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "MIA",
+   "dest": "CAE",
+   "flight_date": "2024-04-16",
+   "dep_hour": 22,
+   "distance": 2554.4
+  },
+  "probability": 0.4704272449016571,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "CKB",
+   "dest": "USA",
+   "flight_date": "2024-04-19",
+   "dep_hour": 17,
+   "distance": 2017.1,
+   "prev_leg_arr_delay": 95.5,
+   "prev_leg_dep_delay": 42.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.9267444610595703,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "CDV",
+   "dest": "YUM",
+   "flight_date": "2024-04-29",
+   "dep_hour": 17,
+   "distance": 2040.7
+  },
+  "probability": 0.4033961296081543,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "PAE",
+   "dest": "BTM",
+   "flight_date": "2024-04-11",
+   "dep_hour": 13,
+   "distance": 930.1
+  },
+  "probability": 0.12284132093191147,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "BIS",
+   "dest": "BQK",
+   "flight_date": "2024-04-03",
+   "dep_hour": 13,
+   "distance": 342.7,
+   "prev_leg_arr_delay": 140.5,
+   "prev_leg_dep_delay": 93.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.9519315958023071,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "CID",
+   "dest": "MSP",
+   "flight_date": "2024-04-28",
+   "dep_hour": 23,
+   "distance": 219.9
+  },
+  "probability": 0.5203960537910461,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "FAT",
+   "dest": "PPG",
+   "flight_date": "2024-04-08",
+   "dep_hour": 3,
+   "distance": 1032.3,
+   "prev_leg_arr_delay": -5.9,
+   "prev_leg_dep_delay": 39.3,
+   "leg_of_day": 2
+  },
+  "probability": 0.4701964855194092,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "TUS",
+   "dest": "WRG",
+   "flight_date": "2024-04-18",
+   "dep_hour": 0,
+   "distance": 1736.5,
+   "prev_leg_arr_delay": 115.6,
+   "prev_leg_dep_delay": -9.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.809487521648407,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "LCH",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-28",
+   "dep_hour": 4,
+   "distance": 1620.4,
+   "prev_leg_arr_delay": -0.2,
+   "prev_leg_dep_delay": 108.5,
+   "leg_of_day": 1
+  },
+  "probability": 0.18882471323013306,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "MSN",
+   "dest": "CYS",
+   "flight_date": "2024-04-12",
+   "dep_hour": 9,
+   "distance": 2042.7,
+   "prev_leg_arr_delay": 89.2,
+   "prev_leg_dep_delay": 1.6,
+   "leg_of_day": 1
+  },
+  "probability": 0.7226554155349731,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "BOS",
+   "dest": "MSY",
+   "flight_date": "2024-04-16",
+   "dep_hour": 19,
+   "distance": 1282.4
+  },
+  "probability": 0.4333933889865875,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "CAK",
+   "dest": "STL",
+   "flight_date": "2024-04-16",
+   "dep_hour": 16,
+   "distance": 1894.6
+  },
+  "probability": 0.7065136432647705,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "EWR",
+   "dest": "FAT",
+   "flight_date": "2024-04-25",
+   "dep_hour": 4,
+   "distance": 2158.5
+  },
+  "probability": 0.08947516977787018,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "DHN",
+   "dest": "SAN",
+   "flight_date": "2024-04-23",
+   "dep_hour": 7,
+   "distance": 1440.7,
+   "prev_leg_arr_delay": 139.3,
+   "prev_leg_dep_delay": -0.9,
+   "leg_of_day": 6
+  },
+  "probability": 0.9750241041183472,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "BNA",
+   "dest": "SLN",
+   "flight_date": "2024-04-14",
+   "dep_hour": 18,
+   "distance": 1180.0,
+   "prev_leg_arr_delay": 30.8,
+   "prev_leg_dep_delay": 64.0,
+   "leg_of_day": 3
+  },
+  "probability": 0.7864450812339783,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "LIH",
+   "dest": "BZN",
+   "flight_date": "2024-04-08",
+   "dep_hour": 13,
+   "distance": 1681.7,
+   "prev_leg_arr_delay": 53.1,
+   "prev_leg_dep_delay": 45.5,
+   "leg_of_day": 3
+  },
+  "probability": 0.9064385890960693,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "RHI",
+   "dest": "SAF",
+   "flight_date": "2024-04-17",
+   "dep_hour": 6,
+   "distance": 2544.1,
+   "prev_leg_arr_delay": 122.7,
+   "prev_leg_dep_delay": 144.7,
+   "leg_of_day": 2
+  },
+  "probability": 0.76092928647995,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "DFW",
+   "dest": "BMI",
+   "flight_date": "2024-04-06",
+   "dep_hour": 20,
+   "distance": 1424.0,
+   "prev_leg_arr_delay": 129.6,
+   "prev_leg_dep_delay": 72.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.8987255096435547,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "TXK",
+   "dest": "OME",
+   "flight_date": "2024-04-03",
+   "dep_hour": 15,
+   "distance": 1282.8,
+   "prev_leg_arr_delay": 27.7,
+   "prev_leg_dep_delay": -4.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.37196511030197144,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "BGM",
+   "dest": "HTS",
+   "flight_date": "2024-04-03",
+   "dep_hour": 20,
+   "distance": 2430.8,
+   "prev_leg_arr_delay": 99.2,
+   "prev_leg_dep_delay": 83.9,
+   "leg_of_day": 4
+  },
+  "probability": 0.9161171317100525,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "AVL",
+   "dest": "SJU",
+   "flight_date": "2024-04-21",
+   "dep_hour": 6,
+   "distance": 954.6,
+   "prev_leg_arr_delay": 1.7,
+   "prev_leg_dep_delay": -2.9,
+   "leg_of_day": 1
+  },
+  "probability": 0.24653680622577667,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "BQK",
+   "dest": "DFW",
+   "flight_date": "2024-04-02",
+   "dep_hour": 7,
+   "distance": 2004.7,
+   "prev_leg_arr_delay": 80.1,
+   "prev_leg_dep_delay": 103.9,
+   "leg_of_day": 3
+  },
+  "probability": 0.9785975813865662,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "LAW",
+   "dest": "BET",
+   "flight_date": "2024-04-26",
+   "dep_hour": 20,
+   "distance": 1840.7
+  },
+  "probability": 0.3891575336456299,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "GRR",
+   "dest": "SUX",
+   "flight_date": "2024-04-28",
+   "dep_hour": 4,
+   "distance": 986.7,
+   "prev_leg_arr_delay": -0.3,
+   "prev_leg_dep_delay": 53.2,
+   "leg_of_day": 6
+  },
+  "probability": 0.46625369787216187,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "BQK",
+   "dest": "MBS",
+   "flight_date": "2024-04-21",
+   "dep_hour": 10,
+   "distance": 2291.9,
+   "prev_leg_arr_delay": 144.1,
+   "prev_leg_dep_delay": 129.1,
+   "leg_of_day": 6
+  },
+  "probability": 0.9573037028312683,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "MSP",
+   "dest": "ADQ",
+   "flight_date": "2024-04-12",
+   "dep_hour": 9,
+   "distance": 570.3
+  },
+  "probability": 0.5349010825157166,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "CMX",
+   "dest": "ICT",
+   "flight_date": "2024-04-28",
+   "dep_hour": 3,
+   "distance": 1460.9,
+   "prev_leg_arr_delay": 125.1,
+   "prev_leg_dep_delay": 87.7,
+   "leg_of_day": 6
+  },
+  "probability": 0.6752848625183105,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "STT",
+   "dest": "DAY",
+   "flight_date": "2024-04-06",
+   "dep_hour": 22,
+   "distance": 2177.4,
+   "prev_leg_arr_delay": 4.8,
+   "prev_leg_dep_delay": 70.3,
+   "leg_of_day": 4
+  },
+  "probability": 0.3601565659046173,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "ORD",
+   "dest": "ORH",
+   "flight_date": "2024-04-08",
+   "dep_hour": 17,
+   "distance": 730.5,
+   "prev_leg_arr_delay": 134.7,
+   "prev_leg_dep_delay": 161.3,
+   "leg_of_day": 2
+  },
+  "probability": 0.5979548692703247,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "PGD",
+   "dest": "MCW",
+   "flight_date": "2024-04-17",
+   "dep_hour": 16,
+   "distance": 1218.8
+  },
+  "probability": 0.3717348277568817,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "GRK",
+   "dest": "PPG",
+   "flight_date": "2024-04-28",
+   "dep_hour": 11,
+   "distance": 1588.4
+  },
+  "probability": 0.380031555891037,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "BPT",
+   "dest": "HIB",
+   "flight_date": "2024-04-15",
+   "dep_hour": 16,
+   "distance": 480.8,
+   "prev_leg_arr_delay": 168.7,
+   "prev_leg_dep_delay": 28.3,
+   "leg_of_day": 4
+  },
+  "probability": 0.9672789573669434,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "ZZZ",
+   "dest": "RDD",
+   "flight_date": "2024-04-12",
+   "dep_hour": 7,
+   "distance": 1130.4
+  },
+  "probability": 0.27880966663360596,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "YAK",
+   "dest": "CPR",
+   "flight_date": "2024-04-05",
+   "dep_hour": 1,
+   "distance": 860.3,
+   "prev_leg_arr_delay": 116.2,
+   "prev_leg_dep_delay": 12.1,
+   "leg_of_day": 6
+  },
+  "probability": 0.8692134618759155,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "ZZZ",
+   "dest": "GSP",
+   "flight_date": "2024-04-07",
+   "dep_hour": 4,
+   "distance": 1572.7,
+   "prev_leg_arr_delay": 80.8,
+   "prev_leg_dep_delay": 6.7,
+   "leg_of_day": 3
+  },
+  "probability": 0.6279635429382324,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "MSN",
+   "dest": "TUS",
+   "flight_date": "2024-04-15",
+   "dep_hour": 2,
+   "distance": 381.5,
+   "prev_leg_arr_delay": 95.3,
+   "prev_leg_dep_delay": -11.8,
+   "leg_of_day": 5
+  },
+  "probability": 0.932984471321106,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "MYR",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-12",
+   "dep_hour": 7,
+   "distance": 1632.2
+  },
+  "probability": 0.10943380743265152,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "BIS",
+   "dest": "SCC",
+   "flight_date": "2024-04-17",
+   "dep_hour": 16,
+   "distance": 1587.3,
+   "prev_leg_arr_delay": 68.7,
+   "prev_leg_dep_delay": 109.0,
+   "leg_of_day": 3
+  },
+  "probability": 0.9585598111152649,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "BIS",
+   "dest": "TXK",
+   "flight_date": "2024-04-04",
+   "dep_hour": 18,
+   "distance": 2079.7,
+   "prev_leg_arr_delay": -20.7,
+   "prev_leg_dep_delay": 91.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.17815379798412323,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "PNS",
+   "dest": "CMI",
+   "flight_date": "2024-04-03",
+   "dep_hour": 22,
+   "distance": 2191.2,
+   "prev_leg_arr_delay": 31.6,
+   "prev_leg_dep_delay": -6.5,
+   "leg_of_day": 2
+  },
+  "probability": 0.34417447447776794,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "RIW",
+   "dest": "SCC",
+   "flight_date": "2024-04-16",
+   "dep_hour": 8,
+   "distance": 179.6,
+   "prev_leg_arr_delay": 30.1,
+   "prev_leg_dep_delay": 153.1,
+   "leg_of_day": 1
+  },
+  "probability": 0.4744970202445984,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "LRD",
+   "dest": "MHT",
+   "flight_date": "2024-04-24",
+   "dep_hour": 14,
+   "distance": 2513.4,
+   "prev_leg_arr_delay": 174.5,
+   "prev_leg_dep_delay": 81.8,
+   "leg_of_day": 4
+  },
+  "probability": 0.913483738899231,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "BPT",
+   "dest": "BOI",
+   "flight_date": "2024-04-14",
+   "dep_hour": 19,
+   "distance": 2786.7
+  },
+  "probability": 0.3882678747177124,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "ICT",
+   "dest": "SUX",
+   "flight_date": "2024-04-23",
+   "dep_hour": 13,
+   "distance": 533.3,
+   "prev_leg_arr_delay": 63.9,
+   "prev_leg_dep_delay": 126.7,
+   "leg_of_day": 3
+  },
+  "probability": 0.8938032388687134,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "BGM",
+   "dest": "VEL",
+   "flight_date": "2024-04-13",
+   "dep_hour": 11,
+   "distance": 1475.6,
+   "prev_leg_arr_delay": 3.6,
+   "prev_leg_dep_delay": -8.9,
+   "leg_of_day": 5
+  },
+  "probability": 0.15971481800079346,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "BIS",
+   "dest": "XNA",
+   "flight_date": "2024-04-12",
+   "dep_hour": 11,
+   "distance": 1121.4,
+   "prev_leg_arr_delay": 97.1,
+   "prev_leg_dep_delay": 117.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.9498579502105713,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "CMX",
+   "dest": "MHK",
+   "flight_date": "2024-04-11",
+   "dep_hour": 20,
+   "distance": 838.0,
+   "prev_leg_arr_delay": -24.6,
+   "prev_leg_dep_delay": 21.3,
+   "leg_of_day": 5
+  },
+  "probability": 0.13014620542526245,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "GTR",
+   "dest": "FAY",
+   "flight_date": "2024-04-20",
+   "dep_hour": 9,
+   "distance": 1967.6,
+   "prev_leg_arr_delay": 12.0,
+   "prev_leg_dep_delay": 11.5,
+   "leg_of_day": 1
+  },
+  "probability": 0.06466607749462128,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "BQN",
+   "dest": "JFK",
+   "flight_date": "2024-04-22",
+   "dep_hour": 11,
+   "distance": 2010.0,
+   "prev_leg_arr_delay": 31.0,
+   "prev_leg_dep_delay": 43.5,
+   "leg_of_day": 2
+  },
+  "probability": 0.34275469183921814,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "DHN",
+   "dest": "RFD",
+   "flight_date": "2024-04-08",
+   "dep_hour": 3,
+   "distance": 2759.6,
+   "prev_leg_arr_delay": 19.7,
+   "prev_leg_dep_delay": 81.3,
+   "leg_of_day": 3
+  },
+  "probability": 0.4912838041782379,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "SEA",
+   "dest": "BQN",
+   "flight_date": "2024-04-03",
+   "dep_hour": 9,
+   "distance": 1163.0,
+   "prev_leg_arr_delay": 70.5,
+   "prev_leg_dep_delay": 65.1,
+   "leg_of_day": 4
+  },
+  "probability": 0.9380277991294861,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "JAX",
+   "dest": "OTH",
+   "flight_date": "2024-04-15",
+   "dep_hour": 21,
+   "distance": 1487.2
+  },
+  "probability": 0.2132650762796402,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "DSM",
+   "dest": "CLL",
+   "flight_date": "2024-04-14",
+   "dep_hour": 16,
+   "distance": 2557.1
+  },
+  "probability": 0.5458155274391174,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "DAL",
+   "dest": "FSD",
+   "flight_date": "2024-04-12",
+   "dep_hour": 16,
+   "distance": 2514.2,
+   "prev_leg_arr_delay": 22.6,
+   "prev_leg_dep_delay": 108.8,
+   "leg_of_day": 5
+  },
+  "probability": 0.5359024405479431,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "SAT",
+   "dest": "VPS",
+   "flight_date": "2024-04-06",
+   "dep_hour": 18,
+   "distance": 2641.2
+  },
+  "probability": 0.3918870985507965,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "LAS",
+   "dest": "SHV",
+   "flight_date": "2024-04-02",
+   "dep_hour": 0,
+   "distance": 300.9,
+   "prev_leg_arr_delay": 131.9,
+   "prev_leg_dep_delay": 36.6,
+   "leg_of_day": 2
+  },
+  "probability": 0.6719889640808105,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "ANC",
+   "dest": "TXK",
+   "flight_date": "2024-04-18",
+   "dep_hour": 9,
+   "distance": 1826.0,
+   "prev_leg_arr_delay": 21.4,
+   "prev_leg_dep_delay": 142.4,
+   "leg_of_day": 4
+  },
+  "probability": 0.5431509017944336,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "CYS",
+   "dest": "PRC",
+   "flight_date": "2024-04-15",
+   "dep_hour": 6,
+   "distance": 1005.3
+  },
+  "probability": 0.1420745700597763,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "LBE",
+   "dest": "CLL",
+   "flight_date": "2024-04-25",
+   "dep_hour": 11,
+   "distance": 1480.7
+  },
+  "probability": 0.4573283791542053,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "GRB",
+   "dest": "BDL",
+   "flight_date": "2024-04-10",
+   "dep_hour": 12,
+   "distance": 2430.5,
+   "prev_leg_arr_delay": 172.2,
+   "prev_leg_dep_delay": 161.0,
+   "leg_of_day": 3
+  },
+  "probability": 0.869921088218689,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "DAB",
+   "dest": "RIW",
+   "flight_date": "2024-04-15",
+   "dep_hour": 15,
+   "distance": 2471.1,
+   "prev_leg_arr_delay": -11.1,
+   "prev_leg_dep_delay": 61.7,
+   "leg_of_day": 4
+  },
+  "probability": 0.06277085840702057,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "AZO",
+   "dest": "PVD",
+   "flight_date": "2024-04-20",
+   "dep_hour": 20,
+   "distance": 1909.3
+  },
+  "probability": 0.38777151703834534,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "CMH",
+   "dest": "LNK",
+   "flight_date": "2024-04-25",
+   "dep_hour": 12,
+   "distance": 1075.3,
+   "prev_leg_arr_delay": 89.8,
+   "prev_leg_dep_delay": 23.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.9681670665740967,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "SDF",
+   "dest": "TVC",
+   "flight_date": "2024-04-22",
+   "dep_hour": 19,
+   "distance": 403.2,
+   "prev_leg_arr_delay": 52.7,
+   "prev_leg_dep_delay": 140.0,
+   "leg_of_day": 3
+  },
+  "probability": 0.8108935952186584,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "ESC",
+   "dest": "MIA",
+   "flight_date": "2024-04-17",
+   "dep_hour": 1,
+   "distance": 203.2
+  },
+  "probability": 0.364568829536438,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "CRW",
+   "dest": "RIW",
+   "flight_date": "2024-04-05",
+   "dep_hour": 10,
+   "distance": 2613.3,
+   "prev_leg_arr_delay": 52.5,
+   "prev_leg_dep_delay": 105.2,
+   "leg_of_day": 3
+  },
+  "probability": 0.5304233431816101,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "SAN",
+   "dest": "SHV",
+   "flight_date": "2024-04-10",
+   "dep_hour": 15,
+   "distance": 2298.8,
+   "prev_leg_arr_delay": 111.5,
+   "prev_leg_dep_delay": 176.1,
+   "leg_of_day": 5
+  },
+  "probability": 0.8752888441085815,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "TYR",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-16",
+   "dep_hour": 8,
+   "distance": 2710.4,
+   "prev_leg_arr_delay": 133.0,
+   "prev_leg_dep_delay": 97.6,
+   "leg_of_day": 6
+  },
+  "probability": 0.9440416693687439,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "TYR",
+   "dest": "MCO",
+   "flight_date": "2024-04-05",
+   "dep_hour": 21,
+   "distance": 738.8,
+   "prev_leg_arr_delay": 117.1,
+   "prev_leg_dep_delay": 22.2,
+   "leg_of_day": 4
+  },
+  "probability": 0.9226575493812561,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "EWR",
+   "dest": "TOL",
+   "flight_date": "2024-04-30",
+   "dep_hour": 15,
+   "distance": 2454.1,
+   "prev_leg_arr_delay": -16.9,
+   "prev_leg_dep_delay": 11.9,
+   "leg_of_day": 2
+  },
+  "probability": 0.084443598985672,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "MBS",
+   "dest": "DFW",
+   "flight_date": "2024-04-15",
+   "dep_hour": 17,
+   "distance": 1011.1,
+   "prev_leg_arr_delay": 132.1,
+   "prev_leg_dep_delay": 125.6,
+   "leg_of_day": 6
+  },
+  "probability": 0.9779641628265381,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "EKO",
+   "dest": "HOU",
+   "flight_date": "2024-04-18",
+   "dep_hour": 9,
+   "distance": 691.6,
+   "prev_leg_arr_delay": 32.5,
+   "prev_leg_dep_delay": 41.4,
+   "leg_of_day": 2
+  },
+  "probability": 0.23143678903579712,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "LBL",
+   "dest": "HLN",
+   "flight_date": "2024-04-10",
+   "dep_hour": 3,
+   "distance": 1639.9,
+   "prev_leg_arr_delay": 158.1,
+   "prev_leg_dep_delay": 61.9,
+   "leg_of_day": 3
+  },
+  "probability": 0.7711645364761353,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "AVL",
+   "dest": "BOI",
+   "flight_date": "2024-04-12",
+   "dep_hour": 14,
+   "distance": 1864.2,
+   "prev_leg_arr_delay": 14.9,
+   "prev_leg_dep_delay": 146.5,
+   "leg_of_day": 3
+  },
+  "probability": 0.6010562777519226,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "CAE",
+   "dest": "SPS",
+   "flight_date": "2024-04-08",
+   "dep_hour": 7,
+   "distance": 218.1,
+   "prev_leg_arr_delay": 17.4,
+   "prev_leg_dep_delay": 30.4,
+   "leg_of_day": 1
+  },
+  "probability": 0.12749753892421722,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "CMX",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-18",
+   "dep_hour": 5,
+   "distance": 1186.8,
+   "prev_leg_arr_delay": 154.5,
+   "prev_leg_dep_delay": 78.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.7568445801734924,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "XNA",
+   "dest": "BRD",
+   "flight_date": "2024-04-21",
+   "dep_hour": 18,
+   "distance": 711.6,
+   "prev_leg_arr_delay": 148.6,
+   "prev_leg_dep_delay": -7.7,
+   "leg_of_day": 2
+  },
+  "probability": 0.6592053174972534,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "ATL",
+   "dest": "MHK",
+   "flight_date": "2024-04-26",
+   "dep_hour": 15,
+   "distance": 586.8,
+   "prev_leg_arr_delay": 153.2,
+   "prev_leg_dep_delay": 41.4,
+   "leg_of_day": 1
+  },
+  "probability": 0.8389579653739929,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "BZN",
+   "dest": "LAR",
+   "flight_date": "2024-04-10",
+   "dep_hour": 14,
+   "distance": 2770.4,
+   "prev_leg_arr_delay": 73.7,
+   "prev_leg_dep_delay": 168.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.9106525778770447,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "KTN",
+   "dest": "PBI",
+   "flight_date": "2024-04-21",
+   "dep_hour": 8,
+   "distance": 2034.6
+  },
+  "probability": 0.17115092277526855,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "EKO",
+   "dest": "VLD",
+   "flight_date": "2024-04-29",
+   "dep_hour": 12,
+   "distance": 2329.4,
+   "prev_leg_arr_delay": -11.8,
+   "prev_leg_dep_delay": 115.5,
+   "leg_of_day": 2
+  },
+  "probability": 0.22898831963539124,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "GRI",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-13",
+   "dep_hour": 7,
+   "distance": 1295.1
+  },
+  "probability": 0.2892976999282837,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "ACT",
+   "dest": "LGB",
+   "flight_date": "2024-04-23",
+   "dep_hour": 7,
+   "distance": 249.0
+  },
+  "probability": 0.1340624988079071,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "ITO",
+   "dest": "VLD",
+   "flight_date": "2024-04-30",
+   "dep_hour": 9,
+   "distance": 1079.7
+  },
+  "probability": 0.700657308101654,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "SWO",
+   "dest": "SDF",
+   "flight_date": "2024-04-30",
+   "dep_hour": 15,
+   "distance": 2140.0,
+   "prev_leg_arr_delay": 143.4,
+   "prev_leg_dep_delay": 133.6,
+   "leg_of_day": 6
+  },
+  "probability": 0.9537655115127563,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "RST",
+   "dest": "LIH",
+   "flight_date": "2024-04-03",
+   "dep_hour": 18,
+   "distance": 385.2,
+   "prev_leg_arr_delay": 159.6,
+   "prev_leg_dep_delay": 24.4,
+   "leg_of_day": 5
+  },
+  "probability": 0.9706456661224365,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "ONT",
+   "dest": "EYW",
+   "flight_date": "2024-04-23",
+   "dep_hour": 18,
+   "distance": 1409.6,
+   "prev_leg_arr_delay": 63.6,
+   "prev_leg_dep_delay": -4.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.8720780611038208,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "SGU",
+   "dest": "ISP",
+   "flight_date": "2024-04-24",
+   "dep_hour": 0,
+   "distance": 1157.0,
+   "prev_leg_arr_delay": 126.6,
+   "prev_leg_dep_delay": 97.8,
+   "leg_of_day": 1
+  },
+  "probability": 0.8977841734886169,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "BGR",
+   "dest": "BJI",
+   "flight_date": "2024-04-30",
+   "dep_hour": 15,
+   "distance": 166.3,
+   "prev_leg_arr_delay": 131.5,
+   "prev_leg_dep_delay": 134.3,
+   "leg_of_day": 6
+  },
+  "probability": 0.8636789321899414,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "MCW",
+   "dest": "MCI",
+   "flight_date": "2024-04-13",
+   "dep_hour": 2,
+   "distance": 1937.0,
+   "prev_leg_arr_delay": 83.3,
+   "prev_leg_dep_delay": 112.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.8980655670166016,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "CLE",
+   "dest": "FOD",
+   "flight_date": "2024-04-27",
+   "dep_hour": 0,
+   "distance": 2136.8,
+   "prev_leg_arr_delay": 67.2,
+   "prev_leg_dep_delay": 125.2,
+   "leg_of_day": 4
+  },
+  "probability": 0.6299959421157837,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "PDX",
+   "dest": "HNL",
+   "flight_date": "2024-04-07",
+   "dep_hour": 23,
+   "distance": 2162.1
+  },
+  "probability": 0.21964918076992035,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "ADK",
+   "dest": "BIS",
+   "flight_date": "2024-04-04",
+   "dep_hour": 19,
+   "distance": 171.3,
+   "prev_leg_arr_delay": 117.7,
+   "prev_leg_dep_delay": -5.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.7424153685569763,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "FLG",
+   "dest": "BFL",
+   "flight_date": "2024-04-05",
+   "dep_hour": 16,
+   "distance": 2782.3
+  },
+  "probability": 0.15647588670253754,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "STX",
+   "dest": "JLN",
+   "flight_date": "2024-04-08",
+   "dep_hour": 9,
+   "distance": 2463.4,
+   "prev_leg_arr_delay": 79.5,
+   "prev_leg_dep_delay": 65.6,
+   "leg_of_day": 3
+  },
+  "probability": 0.9777167439460754,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "DHN",
+   "dest": "MTJ",
+   "flight_date": "2024-04-18",
+   "dep_hour": 15,
+   "distance": 207.5,
+   "prev_leg_arr_delay": 105.1,
+   "prev_leg_dep_delay": 59.3,
+   "leg_of_day": 5
+  },
+  "probability": 0.9516128301620483,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "ILM",
+   "dest": "SBA",
+   "flight_date": "2024-04-16",
+   "dep_hour": 7,
+   "distance": 2390.2,
+   "prev_leg_arr_delay": 118.6,
+   "prev_leg_dep_delay": 142.1,
+   "leg_of_day": 1
+  },
+  "probability": 0.6206954121589661,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "CMH",
+   "dest": "GSO",
+   "flight_date": "2024-04-07",
+   "dep_hour": 10,
+   "distance": 1839.0,
+   "prev_leg_arr_delay": 147.9,
+   "prev_leg_dep_delay": 3.0,
+   "leg_of_day": 6
+  },
+  "probability": 0.9729750752449036,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "SWF",
+   "dest": "BLV",
+   "flight_date": "2024-04-07",
+   "dep_hour": 18,
+   "distance": 2050.1,
+   "prev_leg_arr_delay": 70.7,
+   "prev_leg_dep_delay": 154.5,
+   "leg_of_day": 3
+  },
+  "probability": 0.7830263376235962,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "ZZZ",
+   "dest": "CHO",
+   "flight_date": "2024-04-24",
+   "dep_hour": 15,
+   "distance": 2567.3,
+   "prev_leg_arr_delay": 117.8,
+   "prev_leg_dep_delay": 62.3,
+   "leg_of_day": 2
+  },
+  "probability": 0.7358881235122681,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "PHX",
+   "dest": "LGA",
+   "flight_date": "2024-04-10",
+   "dep_hour": 8,
+   "distance": 1058.2,
+   "prev_leg_arr_delay": 67.9,
+   "prev_leg_dep_delay": 141.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.8547824621200562,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "EWR",
+   "dest": "MOT",
+   "flight_date": "2024-04-02",
+   "dep_hour": 18,
+   "distance": 2430.3,
+   "prev_leg_arr_delay": -26.6,
+   "prev_leg_dep_delay": 92.9,
+   "leg_of_day": 5
+  },
+  "probability": 0.2531796991825104,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "ELP",
+   "dest": "MCO",
+   "flight_date": "2024-04-19",
+   "dep_hour": 7,
+   "distance": 1438.1,
+   "prev_leg_arr_delay": 113.8,
+   "prev_leg_dep_delay": 35.2,
+   "leg_of_day": 4
+  },
+  "probability": 0.9294009208679199,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "PDX",
+   "dest": "LCK",
+   "flight_date": "2024-04-06",
+   "dep_hour": 4,
+   "distance": 2039.3,
+   "prev_leg_arr_delay": 162.5,
+   "prev_leg_dep_delay": 90.7,
+   "leg_of_day": 6
+  },
+  "probability": 0.8861215710639954,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "BMI",
+   "dest": "AZO",
+   "flight_date": "2024-04-25",
+   "dep_hour": 0,
+   "distance": 1201.7,
+   "prev_leg_arr_delay": 18.6,
+   "prev_leg_dep_delay": 122.9,
+   "leg_of_day": 1
+  },
+  "probability": 0.36474066972732544,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "TTN",
+   "dest": "TRI",
+   "flight_date": "2024-04-30",
+   "dep_hour": 15,
+   "distance": 1873.3
+  },
+  "probability": 0.5709484815597534,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "ZZZ",
+   "dest": "HLN",
+   "flight_date": "2024-04-18",
+   "dep_hour": 9,
+   "distance": 126.6,
+   "prev_leg_arr_delay": 111.5,
+   "prev_leg_dep_delay": 142.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.7847248911857605,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "GJT",
+   "dest": "RST",
+   "flight_date": "2024-04-09",
+   "dep_hour": 11,
+   "distance": 807.1,
+   "prev_leg_arr_delay": 48.3,
+   "prev_leg_dep_delay": 64.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.8973714113235474,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "BOS",
+   "dest": "YAK",
+   "flight_date": "2024-04-25",
+   "dep_hour": 1,
+   "distance": 334.3,
+   "prev_leg_arr_delay": 86.1,
+   "prev_leg_dep_delay": -4.1,
+   "leg_of_day": 1
+  },
+  "probability": 0.6652623414993286,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "OGG",
+   "dest": "KTN",
+   "flight_date": "2024-04-19",
+   "dep_hour": 3,
+   "distance": 2513.8,
+   "prev_leg_arr_delay": 18.3,
+   "prev_leg_dep_delay": 160.7,
+   "leg_of_day": 6
+  },
+  "probability": 0.5532065033912659,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "BMI",
+   "dest": "HPN",
+   "flight_date": "2024-04-29",
+   "dep_hour": 17,
+   "distance": 1612.7
+  },
+  "probability": 0.44317135214805603,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "ZZZ",
+   "dest": "COU",
+   "flight_date": "2024-04-25",
+   "dep_hour": 22,
+   "distance": 2312.9,
+   "prev_leg_arr_delay": 32.8,
+   "prev_leg_dep_delay": 95.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.447467178106308,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "SBN",
+   "dest": "CNY",
+   "flight_date": "2024-04-26",
+   "dep_hour": 22,
+   "distance": 2049.7,
+   "prev_leg_arr_delay": 174.6,
+   "prev_leg_dep_delay": -4.5,
+   "leg_of_day": 4
+  },
+  "probability": 0.8574309349060059,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "TPA",
+   "dest": "MHK",
+   "flight_date": "2024-04-25",
+   "dep_hour": 10,
+   "distance": 160.6
+  },
+  "probability": 0.3613550662994385,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "SFB",
+   "dest": "OAK",
+   "flight_date": "2024-04-06",
+   "dep_hour": 21,
+   "distance": 1673.6,
+   "prev_leg_arr_delay": 132.2,
+   "prev_leg_dep_delay": 42.6,
+   "leg_of_day": 2
+  },
+  "probability": 0.7735636234283447,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "MCO",
+   "dest": "USA",
+   "flight_date": "2024-04-05",
+   "dep_hour": 23,
+   "distance": 1139.8,
+   "prev_leg_arr_delay": -10.8,
+   "prev_leg_dep_delay": 168.9,
+   "leg_of_day": 4
+  },
+  "probability": 0.19579467177391052,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "BQN",
+   "dest": "ORH",
+   "flight_date": "2024-04-18",
+   "dep_hour": 17,
+   "distance": 1473.8
+  },
+  "probability": 0.17213639616966248,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "STX",
+   "dest": "MDW",
+   "flight_date": "2024-04-01",
+   "dep_hour": 9,
+   "distance": 1205.6,
+   "prev_leg_arr_delay": 122.2,
+   "prev_leg_dep_delay": 94.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.9435351490974426,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "DEC",
+   "dest": "IMT",
+   "flight_date": "2024-04-09",
+   "dep_hour": 15,
+   "distance": 476.9
+  },
+  "probability": 0.5710974335670471,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "BNA",
+   "dest": "GRB",
+   "flight_date": "2024-04-24",
+   "dep_hour": 20,
+   "distance": 1428.6,
+   "prev_leg_arr_delay": 66.2,
+   "prev_leg_dep_delay": 11.4,
+   "leg_of_day": 1
+  },
+  "probability": 0.597036600112915,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "MCO",
+   "dest": "KOA",
+   "flight_date": "2024-04-15",
+   "dep_hour": 10,
+   "distance": 1251.3,
+   "prev_leg_arr_delay": 106.7,
+   "prev_leg_dep_delay": 100.9,
+   "leg_of_day": 3
+  },
+  "probability": 0.9572597742080688,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "JAC",
+   "dest": "MHK",
+   "flight_date": "2024-04-11",
+   "dep_hour": 9,
+   "distance": 2078.9,
+   "prev_leg_arr_delay": 173.2,
+   "prev_leg_dep_delay": 137.5,
+   "leg_of_day": 3
+  },
+  "probability": 0.9652917981147766,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "LIT",
+   "dest": "SHV",
+   "flight_date": "2024-04-07",
+   "dep_hour": 18,
+   "distance": 2792.6
+  },
+  "probability": 0.2868442237377167,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "PGD",
+   "dest": "FAR",
+   "flight_date": "2024-04-15",
+   "dep_hour": 9,
+   "distance": 2341.1
+  },
+  "probability": 0.16469193994998932,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "PWM",
+   "dest": "IND",
+   "flight_date": "2024-04-08",
+   "dep_hour": 8,
+   "distance": 1871.6,
+   "prev_leg_arr_delay": 135.7,
+   "prev_leg_dep_delay": -0.6,
+   "leg_of_day": 5
+  },
+  "probability": 0.9210743308067322,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "MSN",
+   "dest": "LGB",
+   "flight_date": "2024-04-23",
+   "dep_hour": 17,
+   "distance": 1695.2,
+   "prev_leg_arr_delay": -7.0,
+   "prev_leg_dep_delay": 33.4,
+   "leg_of_day": 6
+  },
+  "probability": 0.17772041261196136,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "SHV",
+   "dest": "XWA",
+   "flight_date": "2024-04-13",
+   "dep_hour": 10,
+   "distance": 2706.7,
+   "prev_leg_arr_delay": -27.8,
+   "prev_leg_dep_delay": 35.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.3337308466434479,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "SLN",
+   "dest": "MAF",
+   "flight_date": "2024-04-13",
+   "dep_hour": 14,
+   "distance": 2180.8,
+   "prev_leg_arr_delay": 75.1,
+   "prev_leg_dep_delay": 52.3,
+   "leg_of_day": 1
+  },
+  "probability": 0.7421886324882507,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "BQK",
+   "dest": "COS",
+   "flight_date": "2024-04-12",
+   "dep_hour": 9,
+   "distance": 1013.1,
+   "prev_leg_arr_delay": 79.4,
+   "prev_leg_dep_delay": 52.9,
+   "leg_of_day": 1
+  },
+  "probability": 0.9045923948287964,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "BIS",
+   "dest": "CDV",
+   "flight_date": "2024-04-01",
+   "dep_hour": 10,
+   "distance": 1842.5,
+   "prev_leg_arr_delay": 4.5,
+   "prev_leg_dep_delay": 176.9,
+   "leg_of_day": 2
+  },
+  "probability": 0.3466833829879761,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "SGU",
+   "dest": "PGD",
+   "flight_date": "2024-04-08",
+   "dep_hour": 12,
+   "distance": 1792.9
+  },
+  "probability": 0.46847981214523315,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "ZZZ",
+   "dest": "ESC",
+   "flight_date": "2024-04-15",
+   "dep_hour": 18,
+   "distance": 1248.4
+  },
+  "probability": 0.3164915442466736,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "BIH",
+   "dest": "SAV",
+   "flight_date": "2024-04-06",
+   "dep_hour": 11,
+   "distance": 966.7,
+   "prev_leg_arr_delay": 25.1,
+   "prev_leg_dep_delay": 153.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.7854377031326294,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "TLH",
+   "dest": "CDV",
+   "flight_date": "2024-04-12",
+   "dep_hour": 11,
+   "distance": 2379.8,
+   "prev_leg_arr_delay": 140.9,
+   "prev_leg_dep_delay": 122.7,
+   "leg_of_day": 3
+  },
+  "probability": 0.9377049207687378,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "CMH",
+   "dest": "GGG",
+   "flight_date": "2024-04-10",
+   "dep_hour": 3,
+   "distance": 577.9,
+   "prev_leg_arr_delay": 77.3,
+   "prev_leg_dep_delay": 66.6,
+   "leg_of_day": 2
+  },
+  "probability": 0.7026883959770203,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "VCT",
+   "dest": "XNA",
+   "flight_date": "2024-04-30",
+   "dep_hour": 5,
+   "distance": 1589.4,
+   "prev_leg_arr_delay": -0.5,
+   "prev_leg_dep_delay": 46.3,
+   "leg_of_day": 4
+  },
+  "probability": 0.4146871268749237,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "ABY",
+   "dest": "ELM",
+   "flight_date": "2024-04-27",
+   "dep_hour": 12,
+   "distance": 2701.6,
+   "prev_leg_arr_delay": 73.9,
+   "prev_leg_dep_delay": 118.5,
+   "leg_of_day": 4
+  },
+  "probability": 0.9642417430877686,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "BPT",
+   "dest": "FLL",
+   "flight_date": "2024-04-10",
+   "dep_hour": 1,
+   "distance": 827.6,
+   "prev_leg_arr_delay": 5.3,
+   "prev_leg_dep_delay": 74.2,
+   "leg_of_day": 6
+  },
+  "probability": 0.6143436431884766,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "CDC",
+   "dest": "HGR",
+   "flight_date": "2024-04-25",
+   "dep_hour": 17,
+   "distance": 2319.3,
+   "prev_leg_arr_delay": 142.7,
+   "prev_leg_dep_delay": -6.9,
+   "leg_of_day": 6
+  },
+  "probability": 0.7962682247161865,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "BUR",
+   "dest": "GRB",
+   "flight_date": "2024-04-10",
+   "dep_hour": 1,
+   "distance": 1303.3,
+   "prev_leg_arr_delay": 141.5,
+   "prev_leg_dep_delay": 70.6,
+   "leg_of_day": 1
+  },
+  "probability": 0.7817783951759338,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "SRQ",
+   "dest": "TLH",
+   "flight_date": "2024-04-21",
+   "dep_hour": 13,
+   "distance": 531.5
+  },
+  "probability": 0.27244269847869873,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "SJT",
+   "dest": "HPN",
+   "flight_date": "2024-04-20",
+   "dep_hour": 17,
+   "distance": 538.0,
+   "prev_leg_arr_delay": 31.5,
+   "prev_leg_dep_delay": 96.7,
+   "leg_of_day": 5
+  },
+  "probability": 0.8562641739845276,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "CMI",
+   "dest": "MOB",
+   "flight_date": "2024-04-30",
+   "dep_hour": 1,
+   "distance": 2779.6,
+   "prev_leg_arr_delay": -3.4,
+   "prev_leg_dep_delay": 153.9,
+   "leg_of_day": 2
+  },
+  "probability": 0.27459344267845154,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "MFR",
+   "dest": "SMF",
+   "flight_date": "2024-04-21",
+   "dep_hour": 8,
+   "distance": 1787.7,
+   "prev_leg_arr_delay": -14.1,
+   "prev_leg_dep_delay": 139.9,
+   "leg_of_day": 1
+  },
+  "probability": 0.4392220973968506,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "LRD",
+   "dest": "PSE",
+   "flight_date": "2024-04-11",
+   "dep_hour": 18,
+   "distance": 86.7,
+   "prev_leg_arr_delay": 123.9,
+   "prev_leg_dep_delay": 127.5,
+   "leg_of_day": 4
+  },
+  "probability": 0.8509870171546936,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "BIH",
+   "dest": "MHK",
+   "flight_date": "2024-04-07",
+   "dep_hour": 13,
+   "distance": 2323.6,
+   "prev_leg_arr_delay": 37.8,
+   "prev_leg_dep_delay": 40.3,
+   "leg_of_day": 5
+  },
+  "probability": 0.4521726667881012,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "LBB",
+   "dest": "AZO",
+   "flight_date": "2024-04-02",
+   "dep_hour": 3,
+   "distance": 1783.2,
+   "prev_leg_arr_delay": -26.6,
+   "prev_leg_dep_delay": 166.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.1835385262966156,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "MYR",
+   "dest": "CLT",
+   "flight_date": "2024-04-29",
+   "dep_hour": 20,
+   "distance": 901.1,
+   "prev_leg_arr_delay": 154.1,
+   "prev_leg_dep_delay": 3.2,
+   "leg_of_day": 3
+  },
+  "probability": 0.9023873209953308,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "YAK",
+   "dest": "MGM",
+   "flight_date": "2024-04-21",
+   "dep_hour": 9,
+   "distance": 2054.7,
+   "prev_leg_arr_delay": 60.1,
+   "prev_leg_dep_delay": 2.8,
+   "leg_of_day": 1
+  },
+  "probability": 0.8822109699249268,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "CLT",
+   "dest": "RNO",
+   "flight_date": "2024-04-22",
+   "dep_hour": 14,
+   "distance": 105.3,
+   "prev_leg_arr_delay": 141.6,
+   "prev_leg_dep_delay": 177.7,
+   "leg_of_day": 4
+  },
+  "probability": 0.8982773423194885,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "MDT",
+   "dest": "BUR",
+   "flight_date": "2024-04-04",
+   "dep_hour": 10,
+   "distance": 1079.8
+  },
+  "probability": 0.39297839999198914,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "CMH",
+   "dest": "COU",
+   "flight_date": "2024-04-03",
+   "dep_hour": 16,
+   "distance": 1612.2,
+   "prev_leg_arr_delay": 4.5,
+   "prev_leg_dep_delay": 53.5,
+   "leg_of_day": 2
+  },
+  "probability": 0.4152003526687622,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "TRI",
+   "dest": "FLG",
+   "flight_date": "2024-04-03",
+   "dep_hour": 3,
+   "distance": 460.8
+  },
+  "probability": 0.07241658866405487,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "JAN",
+   "dest": "GRB",
+   "flight_date": "2024-04-09",
+   "dep_hour": 20,
+   "distance": 309.2,
+   "prev_leg_arr_delay": 96.0,
+   "prev_leg_dep_delay": 103.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.9505327343940735,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "IMT",
+   "dest": "SWO",
+   "flight_date": "2024-04-17",
+   "dep_hour": 6,
+   "distance": 2114.1
+  },
+  "probability": 0.7299647927284241,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "GGG",
+   "dest": "CDC",
+   "flight_date": "2024-04-08",
+   "dep_hour": 15,
+   "distance": 1815.6
+  },
+  "probability": 0.2957291305065155,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "JAX",
+   "dest": "SJT",
+   "flight_date": "2024-04-14",
+   "dep_hour": 11,
+   "distance": 1566.1
+  },
+  "probability": 0.5833860039710999,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "SPS",
+   "dest": "GUC",
+   "flight_date": "2024-04-07",
+   "dep_hour": 1,
+   "distance": 2589.4,
+   "prev_leg_arr_delay": 53.6,
+   "prev_leg_dep_delay": 40.9,
+   "leg_of_day": 6
+  },
+  "probability": 0.7304152846336365,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "MIA",
+   "dest": "SAV",
+   "flight_date": "2024-04-18",
+   "dep_hour": 19,
+   "distance": 495.3
+  },
+  "probability": 0.23727895319461823,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "CWA",
+   "dest": "MFE",
+   "flight_date": "2024-04-19",
+   "dep_hour": 20,
+   "distance": 2156.0,
+   "prev_leg_arr_delay": 105.1,
+   "prev_leg_dep_delay": 45.5,
+   "leg_of_day": 4
+  },
+  "probability": 0.42000430822372437,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "GPT",
+   "dest": "OGG",
+   "flight_date": "2024-04-04",
+   "dep_hour": 14,
+   "distance": 1745.4
+  },
+  "probability": 0.25821754336357117,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "CHS",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-05",
+   "dep_hour": 22,
+   "distance": 110.9,
+   "prev_leg_arr_delay": 42.8,
+   "prev_leg_dep_delay": 85.9,
+   "leg_of_day": 6
+  },
+  "probability": 0.6834771633148193,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "HGR",
+   "dest": "CHO",
+   "flight_date": "2024-04-25",
+   "dep_hour": 0,
+   "distance": 991.2,
+   "prev_leg_arr_delay": 80.0,
+   "prev_leg_dep_delay": 36.3,
+   "leg_of_day": 5
+  },
+  "probability": 0.9360618591308594,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "LGB",
+   "dest": "SJC",
+   "flight_date": "2024-04-06",
+   "dep_hour": 11,
+   "distance": 507.9,
+   "prev_leg_arr_delay": 157.8,
+   "prev_leg_dep_delay": 116.5,
+   "leg_of_day": 1
+  },
+  "probability": 0.9640880227088928,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "ZZZ",
+   "dest": "ACV",
+   "flight_date": "2024-04-08",
+   "dep_hour": 1,
+   "distance": 1363.2,
+   "prev_leg_arr_delay": 1.5,
+   "prev_leg_dep_delay": 166.6,
+   "leg_of_day": 1
+  },
+  "probability": 0.1624664068222046,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "MSN",
+   "dest": "GRI",
+   "flight_date": "2024-04-14",
+   "dep_hour": 23,
+   "distance": 950.2,
+   "prev_leg_arr_delay": 90.0,
+   "prev_leg_dep_delay": 8.3,
+   "leg_of_day": 6
+  },
+  "probability": 0.7429842948913574,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "RKS",
+   "dest": "MIA",
+   "flight_date": "2024-04-03",
+   "dep_hour": 14,
+   "distance": 2435.6,
+   "prev_leg_arr_delay": 35.2,
+   "prev_leg_dep_delay": 1.8,
+   "leg_of_day": 4
+  },
+  "probability": 0.6193094849586487,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "SHV",
+   "dest": "TUS",
+   "flight_date": "2024-04-08",
+   "dep_hour": 14,
+   "distance": 1081.7,
+   "prev_leg_arr_delay": 179.5,
+   "prev_leg_dep_delay": 136.3,
+   "leg_of_day": 6
+  },
+  "probability": 0.9793662428855896,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "CSG",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-14",
+   "dep_hour": 0,
+   "distance": 713.8,
+   "prev_leg_arr_delay": 146.3,
+   "prev_leg_dep_delay": 156.1,
+   "leg_of_day": 3
+  },
+  "probability": 0.7832710146903992,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "ISP",
+   "dest": "SAF",
+   "flight_date": "2024-04-08",
+   "dep_hour": 13,
+   "distance": 1418.3
+  },
+  "probability": 0.5959762930870056,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "AVP",
+   "dest": "ROA",
+   "flight_date": "2024-04-14",
+   "dep_hour": 22,
+   "distance": 2516.0,
+   "prev_leg_arr_delay": 127.1,
+   "prev_leg_dep_delay": 98.3,
+   "leg_of_day": 5
+  },
+  "probability": 0.8052228689193726,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "STL",
+   "dest": "OGG",
+   "flight_date": "2024-04-22",
+   "dep_hour": 4,
+   "distance": 724.0
+  },
+  "probability": 0.07709816843271255,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "JST",
+   "dest": "HIB",
+   "flight_date": "2024-04-08",
+   "dep_hour": 2,
+   "distance": 2646.5
+  },
+  "probability": 0.20952652394771576,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "DCA",
+   "dest": "JAC",
+   "flight_date": "2024-04-14",
+   "dep_hour": 3,
+   "distance": 1537.7,
+   "prev_leg_arr_delay": 13.6,
+   "prev_leg_dep_delay": 45.1,
+   "leg_of_day": 3
+  },
+  "probability": 0.219633549451828,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "IND",
+   "dest": "SUX",
+   "flight_date": "2024-04-02",
+   "dep_hour": 6,
+   "distance": 2353.7,
+   "prev_leg_arr_delay": -10.8,
+   "prev_leg_dep_delay": 33.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.36245018243789673,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "GTR",
+   "dest": "DHN",
+   "flight_date": "2024-04-01",
+   "dep_hour": 12,
+   "distance": 2404.5,
+   "prev_leg_arr_delay": 85.5,
+   "prev_leg_dep_delay": 3.5,
+   "leg_of_day": 1
+  },
+  "probability": 0.6872372031211853,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "BHM",
+   "dest": "FNT",
+   "flight_date": "2024-04-05",
+   "dep_hour": 6,
+   "distance": 2320.4,
+   "prev_leg_arr_delay": 102.4,
+   "prev_leg_dep_delay": 110.7,
+   "leg_of_day": 5
+  },
+  "probability": 0.9176979064941406,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "AGS",
+   "dest": "ESC",
+   "flight_date": "2024-04-29",
+   "dep_hour": 20,
+   "distance": 1286.1
+  },
+  "probability": 0.3306575417518616,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "CID",
+   "dest": "PGD",
+   "flight_date": "2024-04-02",
+   "dep_hour": 5,
+   "distance": 2593.6,
+   "prev_leg_arr_delay": 122.1,
+   "prev_leg_dep_delay": 81.7,
+   "leg_of_day": 4
+  },
+  "probability": 0.9556694030761719,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "DVL",
+   "dest": "ORF",
+   "flight_date": "2024-04-29",
+   "dep_hour": 4,
+   "distance": 174.2,
+   "prev_leg_arr_delay": 21.6,
+   "prev_leg_dep_delay": 42.5,
+   "leg_of_day": 4
+  },
+  "probability": 0.27161097526550293,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "HPN",
+   "dest": "MSN",
+   "flight_date": "2024-04-07",
+   "dep_hour": 20,
+   "distance": 2486.3,
+   "prev_leg_arr_delay": 102.5,
+   "prev_leg_dep_delay": 141.4,
+   "leg_of_day": 1
+  },
+  "probability": 0.8901922106742859,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "PNS",
+   "dest": "PSC",
+   "flight_date": "2024-04-12",
+   "dep_hour": 18,
+   "distance": 1446.5,
+   "prev_leg_arr_delay": 7.8,
+   "prev_leg_dep_delay": 47.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.11804349720478058,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "HPN",
+   "dest": "PIE",
+   "flight_date": "2024-04-17",
+   "dep_hour": 11,
+   "distance": 2165.8,
+   "prev_leg_arr_delay": 174.5,
+   "prev_leg_dep_delay": 4.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.9930805563926697,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "BFL",
+   "dest": "FLL",
+   "flight_date": "2024-04-19",
+   "dep_hour": 12,
+   "distance": 1045.1,
+   "prev_leg_arr_delay": 147.5,
+   "prev_leg_dep_delay": 19.3,
+   "leg_of_day": 5
+  },
+  "probability": 0.9520009756088257,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "STC",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-23",
+   "dep_hour": 11,
+   "distance": 2657.4,
+   "prev_leg_arr_delay": 88.3,
+   "prev_leg_dep_delay": 21.7,
+   "leg_of_day": 4
+  },
+  "probability": 0.7308979630470276,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "BRO",
+   "dest": "SUX",
+   "flight_date": "2024-04-08",
+   "dep_hour": 0,
+   "distance": 1511.9
+  },
+  "probability": 0.31152623891830444,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "LAX",
+   "dest": "JMS",
+   "flight_date": "2024-04-02",
+   "dep_hour": 0,
+   "distance": 481.8,
+   "prev_leg_arr_delay": -0.3,
+   "prev_leg_dep_delay": 6.6,
+   "leg_of_day": 5
+  },
+  "probability": 0.16448448598384857,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "MGM",
+   "dest": "LAS",
+   "flight_date": "2024-04-10",
+   "dep_hour": 10,
+   "distance": 451.1
+  },
+  "probability": 0.6580038070678711,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "PSE",
+   "dest": "DHN",
+   "flight_date": "2024-04-23",
+   "dep_hour": 17,
+   "distance": 1966.5,
+   "prev_leg_arr_delay": 135.3,
+   "prev_leg_dep_delay": 28.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.8771267533302307,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "IAH",
+   "dest": "ABE",
+   "flight_date": "2024-04-23",
+   "dep_hour": 18,
+   "distance": 1145.2,
+   "prev_leg_arr_delay": 172.7,
+   "prev_leg_dep_delay": -8.7,
+   "leg_of_day": 5
+  },
+  "probability": 0.8951714038848877,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "FNT",
+   "dest": "BWI",
+   "flight_date": "2024-04-30",
+   "dep_hour": 15,
+   "distance": 462.5,
+   "prev_leg_arr_delay": 20.0,
+   "prev_leg_dep_delay": 176.6,
+   "leg_of_day": 2
+  },
+  "probability": 0.3021523952484131,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "VLD",
+   "dest": "LAR",
+   "flight_date": "2024-04-15",
+   "dep_hour": 0,
+   "distance": 801.4
+  },
+  "probability": 0.10215035825967789,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "ABE",
+   "dest": "OMA",
+   "flight_date": "2024-04-24",
+   "dep_hour": 13,
+   "distance": 2716.0,
+   "prev_leg_arr_delay": 73.5,
+   "prev_leg_dep_delay": 58.8,
+   "leg_of_day": 5
+  },
+  "probability": 0.8199052214622498,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "SMF",
+   "dest": "FSD",
+   "flight_date": "2024-04-06",
+   "dep_hour": 14,
+   "distance": 280.5,
+   "prev_leg_arr_delay": 31.9,
+   "prev_leg_dep_delay": 47.1,
+   "leg_of_day": 1
+  },
+  "probability": 0.718501627445221,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "DAL",
+   "dest": "SCK",
+   "flight_date": "2024-04-29",
+   "dep_hour": 2,
+   "distance": 999.2,
+   "prev_leg_arr_delay": 157.6,
+   "prev_leg_dep_delay": 122.4,
+   "leg_of_day": 4
+  },
+  "probability": 0.9331573843955994,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "OGG",
+   "dest": "BUF",
+   "flight_date": "2024-04-11",
+   "dep_hour": 6,
+   "distance": 2730.4,
+   "prev_leg_arr_delay": 86.4,
+   "prev_leg_dep_delay": 165.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.8470597267150879,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "BTR",
+   "dest": "SJU",
+   "flight_date": "2024-04-18",
+   "dep_hour": 15,
+   "distance": 497.8,
+   "prev_leg_arr_delay": 59.8,
+   "prev_leg_dep_delay": 42.4,
+   "leg_of_day": 6
+  },
+  "probability": 0.9715777635574341,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "ALW",
+   "dest": "VEL",
+   "flight_date": "2024-04-10",
+   "dep_hour": 2,
+   "distance": 1368.1
+  },
+  "probability": 0.5599565505981445,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "GUM",
+   "dest": "SCC",
+   "flight_date": "2024-04-13",
+   "dep_hour": 5,
+   "distance": 1089.2,
+   "prev_leg_arr_delay": 9.2,
+   "prev_leg_dep_delay": -6.3,
+   "leg_of_day": 4
+  },
+  "probability": 0.08494411408901215,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "SHV",
+   "dest": "BTR",
+   "flight_date": "2024-04-03",
+   "dep_hour": 21,
+   "distance": 1015.1,
+   "prev_leg_arr_delay": 173.8,
+   "prev_leg_dep_delay": 100.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.795382022857666,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "MSN",
+   "dest": "PIT",
+   "flight_date": "2024-04-19",
+   "dep_hour": 7,
+   "distance": 1375.4
+  },
+  "probability": 0.41807886958122253,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "SJU",
+   "dest": "SJU",
+   "flight_date": "2024-04-22",
+   "dep_hour": 19,
+   "distance": 481.1,
+   "prev_leg_arr_delay": 64.3,
+   "prev_leg_dep_delay": 170.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.8951814770698547,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "AVL",
+   "dest": "OGG",
+   "flight_date": "2024-04-07",
+   "dep_hour": 20,
+   "distance": 482.2,
+   "prev_leg_arr_delay": 37.1,
+   "prev_leg_dep_delay": 126.8,
+   "leg_of_day": 1
+  },
+  "probability": 0.6771887540817261,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "JNU",
+   "dest": "ROA",
+   "flight_date": "2024-04-15",
+   "dep_hour": 0,
+   "distance": 2219.4,
+   "prev_leg_arr_delay": 79.7,
+   "prev_leg_dep_delay": 66.8,
+   "leg_of_day": 4
+  },
+  "probability": 0.9206935167312622,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "BUF",
+   "dest": "SHV",
+   "flight_date": "2024-04-25",
+   "dep_hour": 3,
+   "distance": 2217.2,
+   "prev_leg_arr_delay": 154.8,
+   "prev_leg_dep_delay": 156.2,
+   "leg_of_day": 3
+  },
+  "probability": 0.624660313129425,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "PIH",
+   "dest": "HNL",
+   "flight_date": "2024-04-13",
+   "dep_hour": 4,
+   "distance": 1761.6,
+   "prev_leg_arr_delay": 54.4,
+   "prev_leg_dep_delay": 62.2,
+   "leg_of_day": 3
+  },
+  "probability": 0.9072969555854797,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "HGR",
+   "dest": "AEX",
+   "flight_date": "2024-04-11",
+   "dep_hour": 9,
+   "distance": 925.8,
+   "prev_leg_arr_delay": 150.2,
+   "prev_leg_dep_delay": 118.5,
+   "leg_of_day": 2
+  },
+  "probability": 0.9262879490852356,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "JLN",
+   "dest": "MRY",
+   "flight_date": "2024-04-20",
+   "dep_hour": 20,
+   "distance": 322.9,
+   "prev_leg_arr_delay": 161.8,
+   "prev_leg_dep_delay": 64.4,
+   "leg_of_day": 4
+  },
+  "probability": 0.6982704997062683,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "BFL",
+   "dest": "DAB",
+   "flight_date": "2024-04-03",
+   "dep_hour": 9,
+   "distance": 2010.0,
+   "prev_leg_arr_delay": 133.9,
+   "prev_leg_dep_delay": 87.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.9473007917404175,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "EUG",
+   "dest": "GRI",
+   "flight_date": "2024-04-02",
+   "dep_hour": 14,
+   "distance": 217.5,
+   "prev_leg_arr_delay": 11.8,
+   "prev_leg_dep_delay": 56.8,
+   "leg_of_day": 4
+  },
+  "probability": 0.45598122477531433,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "ANC",
+   "dest": "PSG",
+   "flight_date": "2024-04-20",
+   "dep_hour": 14,
+   "distance": 563.0,
+   "prev_leg_arr_delay": 93.2,
+   "prev_leg_dep_delay": 53.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.8641534447669983,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "BRO",
+   "dest": "MDW",
+   "flight_date": "2024-04-02",
+   "dep_hour": 5,
+   "distance": 2402.4,
+   "prev_leg_arr_delay": 15.0,
+   "prev_leg_dep_delay": 28.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.18803642690181732,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "RIC",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-25",
+   "dep_hour": 21,
+   "distance": 104.2,
+   "prev_leg_arr_delay": 105.9,
+   "prev_leg_dep_delay": 102.2,
+   "leg_of_day": 1
+  },
+  "probability": 0.8248504400253296,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "INL",
+   "dest": "WRG",
+   "flight_date": "2024-04-09",
+   "dep_hour": 13,
+   "distance": 2515.7,
+   "prev_leg_arr_delay": 66.4,
+   "prev_leg_dep_delay": 27.6,
+   "leg_of_day": 3
+  },
+  "probability": 0.9287212491035461,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "SPN",
+   "dest": "RHI",
+   "flight_date": "2024-04-22",
+   "dep_hour": 11,
+   "distance": 1607.2,
+   "prev_leg_arr_delay": 29.4,
+   "prev_leg_dep_delay": 118.5,
+   "leg_of_day": 4
+  },
+  "probability": 0.3306361734867096,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "HNL",
+   "dest": "YUM",
+   "flight_date": "2024-04-10",
+   "dep_hour": 6,
+   "distance": 487.8,
+   "prev_leg_arr_delay": 158.9,
+   "prev_leg_dep_delay": 142.1,
+   "leg_of_day": 5
+  },
+  "probability": 0.9157491326332092,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "ALW",
+   "dest": "ICT",
+   "flight_date": "2024-04-09",
+   "dep_hour": 13,
+   "distance": 1180.5,
+   "prev_leg_arr_delay": 92.4,
+   "prev_leg_dep_delay": 179.0,
+   "leg_of_day": 2
+  },
+  "probability": 0.910832405090332,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "SAT",
+   "dest": "PIT",
+   "flight_date": "2024-04-30",
+   "dep_hour": 21,
+   "distance": 1055.1,
+   "prev_leg_arr_delay": 5.7,
+   "prev_leg_dep_delay": 113.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.13989271223545074,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "GTF",
+   "dest": "SGU",
+   "flight_date": "2024-04-25",
+   "dep_hour": 5,
+   "distance": 2655.6,
+   "prev_leg_arr_delay": 107.4,
+   "prev_leg_dep_delay": 28.3,
+   "leg_of_day": 2
+  },
+  "probability": 0.48807740211486816,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "KTN",
+   "dest": "SPN",
+   "flight_date": "2024-04-10",
+   "dep_hour": 14,
+   "distance": 2395.3,
+   "prev_leg_arr_delay": 151.9,
+   "prev_leg_dep_delay": 98.8,
+   "leg_of_day": 5
+  },
+  "probability": 0.9304220676422119,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "CHS",
+   "dest": "MCW",
+   "flight_date": "2024-04-17",
+   "dep_hour": 9,
+   "distance": 1203.7,
+   "prev_leg_arr_delay": 1.7,
+   "prev_leg_dep_delay": 178.5,
+   "leg_of_day": 3
+  },
+  "probability": 0.24871787428855896,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "PBI",
+   "dest": "DRO",
+   "flight_date": "2024-04-25",
+   "dep_hour": 2,
+   "distance": 1406.2,
+   "prev_leg_arr_delay": 7.1,
+   "prev_leg_dep_delay": 108.7,
+   "leg_of_day": 1
+  },
+  "probability": 0.31223925948143005,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "DEC",
+   "dest": "DAB",
+   "flight_date": "2024-04-16",
+   "dep_hour": 2,
+   "distance": 432.0,
+   "prev_leg_arr_delay": 60.2,
+   "prev_leg_dep_delay": 68.7,
+   "leg_of_day": 4
+  },
+  "probability": 0.9235098958015442,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "MAF",
+   "dest": "JLN",
+   "flight_date": "2024-04-25",
+   "dep_hour": 16,
+   "distance": 598.4,
+   "prev_leg_arr_delay": 101.6,
+   "prev_leg_dep_delay": 33.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.9168009757995605,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "MDT",
+   "dest": "INL",
+   "flight_date": "2024-04-06",
+   "dep_hour": 2,
+   "distance": 2320.9
+  },
+  "probability": 0.36371856927871704,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "ROW",
+   "dest": "CMH",
+   "flight_date": "2024-04-11",
+   "dep_hour": 15,
+   "distance": 1057.2
+  },
+  "probability": 0.3248032331466675,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "ADQ",
+   "dest": "CLT",
+   "flight_date": "2024-04-07",
+   "dep_hour": 23,
+   "distance": 139.6,
+   "prev_leg_arr_delay": -4.1,
+   "prev_leg_dep_delay": 123.7,
+   "leg_of_day": 1
+  },
+  "probability": 0.12538883090019226,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "SAT",
+   "dest": "STS",
+   "flight_date": "2024-04-02",
+   "dep_hour": 21,
+   "distance": 374.1,
+   "prev_leg_arr_delay": -19.9,
+   "prev_leg_dep_delay": 7.6,
+   "leg_of_day": 4
+  },
+  "probability": 0.07064720243215561,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "CVG",
+   "dest": "TYR",
+   "flight_date": "2024-04-01",
+   "dep_hour": 9,
+   "distance": 1224.8
+  },
+  "probability": 0.20123125612735748,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "CMX",
+   "dest": "BWI",
+   "flight_date": "2024-04-17",
+   "dep_hour": 23,
+   "distance": 1760.1
+  },
+  "probability": 0.4586339294910431,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "EUG",
+   "dest": "ROC",
+   "flight_date": "2024-04-07",
+   "dep_hour": 11,
+   "distance": 1993.3
+  },
+  "probability": 0.40697693824768066,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "PPG",
+   "dest": "ABI",
+   "flight_date": "2024-04-01",
+   "dep_hour": 21,
+   "distance": 322.1
+  },
+  "probability": 0.24117015302181244,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "BRO",
+   "dest": "BMI",
+   "flight_date": "2024-04-24",
+   "dep_hour": 23,
+   "distance": 355.5
+  },
+  "probability": 0.18238307535648346,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "BDL",
+   "dest": "DHN",
+   "flight_date": "2024-04-28",
+   "dep_hour": 1,
+   "distance": 2398.1,
+   "prev_leg_arr_delay": 112.1,
+   "prev_leg_dep_delay": 68.1,
+   "leg_of_day": 1
+  },
+  "probability": 0.542138397693634,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "ABY",
+   "dest": "XWA",
+   "flight_date": "2024-04-06",
+   "dep_hour": 10,
+   "distance": 1052.5,
+   "prev_leg_arr_delay": 100.6,
+   "prev_leg_dep_delay": 156.3,
+   "leg_of_day": 1
+  },
+  "probability": 0.8156887292861938,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "MIA",
+   "dest": "PBG",
+   "flight_date": "2024-04-09",
+   "dep_hour": 12,
+   "distance": 1956.5,
+   "prev_leg_arr_delay": 58.6,
+   "prev_leg_dep_delay": 157.8,
+   "leg_of_day": 2
+  },
+  "probability": 0.8365380764007568,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "DAB",
+   "dest": "STC",
+   "flight_date": "2024-04-16",
+   "dep_hour": 18,
+   "distance": 1925.2
+  },
+  "probability": 0.5857285261154175,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "CLL",
+   "dest": "PSE",
+   "flight_date": "2024-04-04",
+   "dep_hour": 13,
+   "distance": 1278.7
+  },
+  "probability": 0.23443855345249176,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "ROW",
+   "dest": "SMF",
+   "flight_date": "2024-04-24",
+   "dep_hour": 18,
+   "distance": 689.2,
+   "prev_leg_arr_delay": 153.4,
+   "prev_leg_dep_delay": 86.2,
+   "leg_of_day": 6
+  },
+  "probability": 0.9574410319328308,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "GRI",
+   "dest": "VPS",
+   "flight_date": "2024-04-13",
+   "dep_hour": 4,
+   "distance": 2362.2,
+   "prev_leg_arr_delay": 177.4,
+   "prev_leg_dep_delay": -4.4,
+   "leg_of_day": 6
+  },
+  "probability": 0.8535802960395813,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "PVD",
+   "dest": "BMI",
+   "flight_date": "2024-04-25",
+   "dep_hour": 15,
+   "distance": 952.1,
+   "prev_leg_arr_delay": 28.4,
+   "prev_leg_dep_delay": 83.9,
+   "leg_of_day": 5
+  },
+  "probability": 0.5218201279640198,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "BOI",
+   "dest": "SLC",
+   "flight_date": "2024-04-15",
+   "dep_hour": 2,
+   "distance": 2409.9,
+   "prev_leg_arr_delay": -5.1,
+   "prev_leg_dep_delay": 82.0,
+   "leg_of_day": 6
+  },
+  "probability": 0.558742344379425,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "ATL",
+   "dest": "ABE",
+   "flight_date": "2024-04-27",
+   "dep_hour": 2,
+   "distance": 2233.7,
+   "prev_leg_arr_delay": 103.9,
+   "prev_leg_dep_delay": 158.6,
+   "leg_of_day": 5
+  },
+  "probability": 0.9211506843566895,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "LAX",
+   "dest": "BFF",
+   "flight_date": "2024-04-27",
+   "dep_hour": 7,
+   "distance": 2376.5,
+   "prev_leg_arr_delay": 131.2,
+   "prev_leg_dep_delay": 102.0,
+   "leg_of_day": 6
+  },
+  "probability": 0.687643826007843,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "BTR",
+   "dest": "FNT",
+   "flight_date": "2024-04-01",
+   "dep_hour": 10,
+   "distance": 1046.0,
+   "prev_leg_arr_delay": 138.0,
+   "prev_leg_dep_delay": 91.8,
+   "leg_of_day": 3
+  },
+  "probability": 0.9774940013885498,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "PSP",
+   "dest": "MLU",
+   "flight_date": "2024-04-04",
+   "dep_hour": 8,
+   "distance": 1741.5
+  },
+  "probability": 0.2004508227109909,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "EGE",
+   "dest": "CAE",
+   "flight_date": "2024-04-25",
+   "dep_hour": 13,
+   "distance": 206.5,
+   "prev_leg_arr_delay": 111.1,
+   "prev_leg_dep_delay": 9.0,
+   "leg_of_day": 4
+  },
+  "probability": 0.8908944725990295,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "CMH",
+   "dest": "ABQ",
+   "flight_date": "2024-04-17",
+   "dep_hour": 23,
+   "distance": 212.1,
+   "prev_leg_arr_delay": 146.2,
+   "prev_leg_dep_delay": 79.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.9065096378326416,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "SMX",
+   "dest": "CLE",
+   "flight_date": "2024-04-04",
+   "dep_hour": 12,
+   "distance": 1868.5,
+   "prev_leg_arr_delay": 37.6,
+   "prev_leg_dep_delay": 156.9,
+   "leg_of_day": 4
+  },
+  "probability": 0.6690543293952942,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "GRI",
+   "dest": "LBB",
+   "flight_date": "2024-04-10",
+   "dep_hour": 14,
+   "distance": 2269.0
+  },
+  "probability": 0.18291305005550385,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "ILM",
+   "dest": "SCK",
+   "flight_date": "2024-04-28",
+   "dep_hour": 10,
+   "distance": 2016.3,
+   "prev_leg_arr_delay": 102.8,
+   "prev_leg_dep_delay": 24.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.6584231853485107,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "CLT",
+   "dest": "YAK",
+   "flight_date": "2024-04-06",
+   "dep_hour": 16,
+   "distance": 1555.6,
+   "prev_leg_arr_delay": 119.2,
+   "prev_leg_dep_delay": 133.4,
+   "leg_of_day": 5
+  },
+  "probability": 0.8768640756607056,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "MRY",
+   "dest": "SAT",
+   "flight_date": "2024-04-10",
+   "dep_hour": 13,
+   "distance": 2278.6,
+   "prev_leg_arr_delay": -24.7,
+   "prev_leg_dep_delay": 13.3,
+   "leg_of_day": 6
+  },
+  "probability": 0.2224780023097992,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "DAL",
+   "dest": "GRK",
+   "flight_date": "2024-04-05",
+   "dep_hour": 1,
+   "distance": 1958.4
+  },
+  "probability": 0.22738802433013916,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "OTZ",
+   "dest": "SHR",
+   "flight_date": "2024-04-28",
+   "dep_hour": 7,
+   "distance": 2099.4,
+   "prev_leg_arr_delay": 19.9,
+   "prev_leg_dep_delay": 137.9,
+   "leg_of_day": 6
+  },
+  "probability": 0.4569588303565979,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "MCW",
+   "dest": "JAC",
+   "flight_date": "2024-04-18",
+   "dep_hour": 1,
+   "distance": 115.3
+  },
+  "probability": 0.1753990203142166,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "ONT",
+   "dest": "USA",
+   "flight_date": "2024-04-23",
+   "dep_hour": 22,
+   "distance": 1841.6,
+   "prev_leg_arr_delay": 84.8,
+   "prev_leg_dep_delay": 102.7,
+   "leg_of_day": 6
+  },
+  "probability": 0.7076783180236816,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "BMI",
+   "dest": "DFW",
+   "flight_date": "2024-04-24",
+   "dep_hour": 16,
+   "distance": 404.6
+  },
+  "probability": 0.4120011031627655,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "SPN",
+   "dest": "ABQ",
+   "flight_date": "2024-04-11",
+   "dep_hour": 14,
+   "distance": 2010.4
+  },
+  "probability": 0.24822252988815308,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "TWF",
+   "dest": "IMT",
+   "flight_date": "2024-04-16",
+   "dep_hour": 18,
+   "distance": 1576.4
+  },
+  "probability": 0.6892336010932922,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "DTW",
+   "dest": "RDM",
+   "flight_date": "2024-04-06",
+   "dep_hour": 13,
+   "distance": 1557.2,
+   "prev_leg_arr_delay": 43.4,
+   "prev_leg_dep_delay": 157.3,
+   "leg_of_day": 6
+  },
+  "probability": 0.8468716144561768,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "TTN",
+   "dest": "SHR",
+   "flight_date": "2024-04-27",
+   "dep_hour": 20,
+   "distance": 103.9,
+   "prev_leg_arr_delay": 63.6,
+   "prev_leg_dep_delay": 161.4,
+   "leg_of_day": 5
+  },
+  "probability": 0.750741720199585,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "JLN",
+   "dest": "CDV",
+   "flight_date": "2024-04-13",
+   "dep_hour": 8,
+   "distance": 1549.4
+  },
+  "probability": 0.3856185972690582,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "RIW",
+   "dest": "ORF",
+   "flight_date": "2024-04-16",
+   "dep_hour": 1,
+   "distance": 886.3,
+   "prev_leg_arr_delay": 37.3,
+   "prev_leg_dep_delay": 1.1,
+   "leg_of_day": 1
+  },
+  "probability": 0.9590135812759399,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "ABR",
+   "dest": "FAR",
+   "flight_date": "2024-04-22",
+   "dep_hour": 20,
+   "distance": 2184.1,
+   "prev_leg_arr_delay": 59.1,
+   "prev_leg_dep_delay": 5.3,
+   "leg_of_day": 5
+  },
+  "probability": 0.4222337305545807,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "OGG",
+   "dest": "BLI",
+   "flight_date": "2024-04-24",
+   "dep_hour": 21,
+   "distance": 498.2,
+   "prev_leg_arr_delay": 39.7,
+   "prev_leg_dep_delay": 2.1,
+   "leg_of_day": 1
+  },
+  "probability": 0.09286631643772125,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "SLN",
+   "dest": "GTF",
+   "flight_date": "2024-04-14",
+   "dep_hour": 12,
+   "distance": 1307.1,
+   "prev_leg_arr_delay": 36.4,
+   "prev_leg_dep_delay": 61.0,
+   "leg_of_day": 1
+  },
+  "probability": 0.5538359880447388,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "BIH",
+   "dest": "SPN",
+   "flight_date": "2024-04-02",
+   "dep_hour": 22,
+   "distance": 2387.2,
+   "prev_leg_arr_delay": 75.6,
+   "prev_leg_dep_delay": 41.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.9211715459823608,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "OMA",
+   "dest": "ANC",
+   "flight_date": "2024-04-16",
+   "dep_hour": 5,
+   "distance": 1531.0
+  },
+  "probability": 0.5570982098579407,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "ICT",
+   "dest": "COU",
+   "flight_date": "2024-04-10",
+   "dep_hour": 21,
+   "distance": 2492.6,
+   "prev_leg_arr_delay": 152.1,
+   "prev_leg_dep_delay": 111.3,
+   "leg_of_day": 1
+  },
+  "probability": 0.6979432106018066,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "AVL",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-20",
+   "dep_hour": 12,
+   "distance": 1541.1,
+   "prev_leg_arr_delay": 34.0,
+   "prev_leg_dep_delay": 130.9,
+   "leg_of_day": 6
+  },
+  "probability": 0.8378430604934692,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "RIC",
+   "dest": "DTW",
+   "flight_date": "2024-04-08",
+   "dep_hour": 19,
+   "distance": 2350.5
+  },
+  "probability": 0.3775470554828644,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "BFF",
+   "dest": "SDF",
+   "flight_date": "2024-04-15",
+   "dep_hour": 20,
+   "distance": 1575.1
+  },
+  "probability": 0.1569802612066269,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "SNA",
+   "dest": "KTN",
+   "flight_date": "2024-04-12",
+   "dep_hour": 4,
+   "distance": 1905.9
+  },
+  "probability": 0.3803124725818634,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "JAX",
+   "dest": "KOA",
+   "flight_date": "2024-04-20",
+   "dep_hour": 21,
+   "distance": 911.4,
+   "prev_leg_arr_delay": 88.8,
+   "prev_leg_dep_delay": 56.1,
+   "leg_of_day": 3
+  },
+  "probability": 0.8867676258087158,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "ZZZ",
+   "dest": "FNT",
+   "flight_date": "2024-04-23",
+   "dep_hour": 23,
+   "distance": 1823.1
+  },
+  "probability": 0.5083552002906799,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "PNS",
+   "dest": "LGA",
+   "flight_date": "2024-04-25",
+   "dep_hour": 9,
+   "distance": 1404.6
+  },
+  "probability": 0.19527189433574677,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "CNY",
+   "dest": "ELP",
+   "flight_date": "2024-04-09",
+   "dep_hour": 23,
+   "distance": 2490.8
+  },
+  "probability": 0.3985517919063568,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "TYS",
+   "dest": "SNA",
+   "flight_date": "2024-04-19",
+   "dep_hour": 12,
+   "distance": 2172.2
+  },
+  "probability": 0.3654480278491974,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "SBN",
+   "dest": "CRW",
+   "flight_date": "2024-04-12",
+   "dep_hour": 12,
+   "distance": 687.4,
+   "prev_leg_arr_delay": 124.0,
+   "prev_leg_dep_delay": 41.7,
+   "leg_of_day": 4
+  },
+  "probability": 0.7390094995498657,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "RDD",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-08",
+   "dep_hour": 19,
+   "distance": 1940.9,
+   "prev_leg_arr_delay": -0.5,
+   "prev_leg_dep_delay": 16.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.051863789558410645,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "CPR",
+   "dest": "PRC",
+   "flight_date": "2024-04-12",
+   "dep_hour": 1,
+   "distance": 675.2,
+   "prev_leg_arr_delay": -16.8,
+   "prev_leg_dep_delay": 57.0,
+   "leg_of_day": 1
+  },
+  "probability": 0.21620580554008484,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "LGB",
+   "dest": "PAE",
+   "flight_date": "2024-04-29",
+   "dep_hour": 1,
+   "distance": 188.5,
+   "prev_leg_arr_delay": -8.3,
+   "prev_leg_dep_delay": 173.8,
+   "leg_of_day": 6
+  },
+  "probability": 0.1470487415790558,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "SMX",
+   "dest": "DHN",
+   "flight_date": "2024-04-13",
+   "dep_hour": 20,
+   "distance": 1109.6,
+   "prev_leg_arr_delay": 158.6,
+   "prev_leg_dep_delay": 0.2,
+   "leg_of_day": 3
+  },
+  "probability": 0.906428337097168,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "MLB",
+   "dest": "LBE",
+   "flight_date": "2024-04-16",
+   "dep_hour": 15,
+   "distance": 2493.1
+  },
+  "probability": 0.29179176688194275,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "BNA",
+   "dest": "HPN",
+   "flight_date": "2024-04-07",
+   "dep_hour": 4,
+   "distance": 588.4,
+   "prev_leg_arr_delay": 120.6,
+   "prev_leg_dep_delay": 8.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.6924607753753662,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "PPG",
+   "dest": "PNS",
+   "flight_date": "2024-04-07",
+   "dep_hour": 18,
+   "distance": 518.6,
+   "prev_leg_arr_delay": -25.3,
+   "prev_leg_dep_delay": -6.6,
+   "leg_of_day": 5
+  },
+  "probability": 0.04174797609448433,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "AUS",
+   "dest": "CRP",
+   "flight_date": "2024-04-02",
+   "dep_hour": 5,
+   "distance": 782.5
+  },
+  "probability": 0.3137717843055725,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "VEL",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-24",
+   "dep_hour": 23,
+   "distance": 1879.9
+  },
+  "probability": 0.3972477614879608,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "PIE",
+   "dest": "DEN",
+   "flight_date": "2024-04-08",
+   "dep_hour": 13,
+   "distance": 1714.3,
+   "prev_leg_arr_delay": 142.3,
+   "prev_leg_dep_delay": 20.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.9737110137939453,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "LBB",
+   "dest": "STT",
+   "flight_date": "2024-04-19",
+   "dep_hour": 2,
+   "distance": 705.1,
+   "prev_leg_arr_delay": -7.2,
+   "prev_leg_dep_delay": 24.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.25215059518814087,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "BTR",
+   "dest": "TPA",
+   "flight_date": "2024-04-20",
+   "dep_hour": 1,
+   "distance": 2467.5,
+   "prev_leg_arr_delay": 128.0,
+   "prev_leg_dep_delay": 3.2,
+   "leg_of_day": 6
+  },
+  "probability": 0.9721400141716003,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "ABE",
+   "dest": "YAK",
+   "flight_date": "2024-04-14",
+   "dep_hour": 16,
+   "distance": 1224.3,
+   "prev_leg_arr_delay": 116.5,
+   "prev_leg_dep_delay": 68.6,
+   "leg_of_day": 4
+  },
+  "probability": 0.9616577625274658,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "SLN",
+   "dest": "CMH",
+   "flight_date": "2024-04-09",
+   "dep_hour": 15,
+   "distance": 2163.1,
+   "prev_leg_arr_delay": -12.4,
+   "prev_leg_dep_delay": 101.7,
+   "leg_of_day": 5
+  },
+  "probability": 0.24326539039611816,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "ZZZ",
+   "dest": "ABR",
+   "flight_date": "2024-04-19",
+   "dep_hour": 16,
+   "distance": 400.5
+  },
+  "probability": 0.2832051217556,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "MLU",
+   "dest": "CWA",
+   "flight_date": "2024-04-14",
+   "dep_hour": 20,
+   "distance": 1672.2
+  },
+  "probability": 0.3033444285392761,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "HNL",
+   "dest": "MHK",
+   "flight_date": "2024-04-25",
+   "dep_hour": 6,
+   "distance": 1204.0,
+   "prev_leg_arr_delay": 71.3,
+   "prev_leg_dep_delay": 57.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.7830755114555359,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "MHK",
+   "dest": "CHO",
+   "flight_date": "2024-04-24",
+   "dep_hour": 7,
+   "distance": 1294.7,
+   "prev_leg_arr_delay": 4.0,
+   "prev_leg_dep_delay": 26.8,
+   "leg_of_day": 4
+  },
+  "probability": 0.32815486192703247,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "BET",
+   "dest": "VCT",
+   "flight_date": "2024-04-01",
+   "dep_hour": 2,
+   "distance": 2319.3,
+   "prev_leg_arr_delay": 96.1,
+   "prev_leg_dep_delay": 2.2,
+   "leg_of_day": 3
+  },
+  "probability": 0.590695321559906,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "MDT",
+   "dest": "MIA",
+   "flight_date": "2024-04-20",
+   "dep_hour": 20,
+   "distance": 1497.1,
+   "prev_leg_arr_delay": 95.5,
+   "prev_leg_dep_delay": 169.4,
+   "leg_of_day": 2
+  },
+  "probability": 0.9127519726753235,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "ZZZ",
+   "dest": "RNO",
+   "flight_date": "2024-04-10",
+   "dep_hour": 6,
+   "distance": 171.4,
+   "prev_leg_arr_delay": 78.3,
+   "prev_leg_dep_delay": 30.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.5754837393760681,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "ABE",
+   "dest": "BQN",
+   "flight_date": "2024-04-09",
+   "dep_hour": 12,
+   "distance": 1040.5,
+   "prev_leg_arr_delay": 93.1,
+   "prev_leg_dep_delay": 86.0,
+   "leg_of_day": 6
+  },
+  "probability": 0.9261199831962585,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "YX",
+   "origin": "HSV",
+   "dest": "SGU",
+   "flight_date": "2024-04-30",
+   "dep_hour": 18,
+   "distance": 1026.8,
+   "prev_leg_arr_delay": 28.1,
+   "prev_leg_dep_delay": 103.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.2764221131801605,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "GTR",
+   "dest": "RDU",
+   "flight_date": "2024-04-04",
+   "dep_hour": 17,
+   "distance": 276.9
+  },
+  "probability": 0.28715288639068604,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "GSP",
+   "dest": "SLN",
+   "flight_date": "2024-04-09",
+   "dep_hour": 22,
+   "distance": 1284.3,
+   "prev_leg_arr_delay": 71.6,
+   "prev_leg_dep_delay": 32.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.7975696325302124,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "SPS",
+   "dest": "PPG",
+   "flight_date": "2024-04-04",
+   "dep_hour": 8,
+   "distance": 263.7,
+   "prev_leg_arr_delay": 178.8,
+   "prev_leg_dep_delay": 117.0,
+   "leg_of_day": 2
+  },
+  "probability": 0.5680471062660217,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "RKS",
+   "dest": "GUC",
+   "flight_date": "2024-04-08",
+   "dep_hour": 9,
+   "distance": 333.0,
+   "prev_leg_arr_delay": 142.4,
+   "prev_leg_dep_delay": -0.2,
+   "leg_of_day": 2
+  },
+  "probability": 0.8853499889373779,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "SLC",
+   "dest": "EGE",
+   "flight_date": "2024-04-16",
+   "dep_hour": 23,
+   "distance": 623.1,
+   "prev_leg_arr_delay": 153.3,
+   "prev_leg_dep_delay": 25.3,
+   "leg_of_day": 2
+  },
+  "probability": 0.9129509925842285,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "CWA",
+   "dest": "CHS",
+   "flight_date": "2024-04-30",
+   "dep_hour": 2,
+   "distance": 1918.2,
+   "prev_leg_arr_delay": 98.9,
+   "prev_leg_dep_delay": 134.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.823661208152771,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "TUL",
+   "dest": "SLN",
+   "flight_date": "2024-04-28",
+   "dep_hour": 8,
+   "distance": 1415.0,
+   "prev_leg_arr_delay": 162.4,
+   "prev_leg_dep_delay": 39.7,
+   "leg_of_day": 2
+  },
+  "probability": 0.9870075583457947,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "MSP",
+   "dest": "SBN",
+   "flight_date": "2024-04-02",
+   "dep_hour": 16,
+   "distance": 1024.6,
+   "prev_leg_arr_delay": 132.9,
+   "prev_leg_dep_delay": 74.2,
+   "leg_of_day": 1
+  },
+  "probability": 0.6442946791648865,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "ABY",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-07",
+   "dep_hour": 12,
+   "distance": 1660.3,
+   "prev_leg_arr_delay": 98.7,
+   "prev_leg_dep_delay": 35.6,
+   "leg_of_day": 5
+  },
+  "probability": 0.8540783524513245,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "TOL",
+   "dest": "DTW",
+   "flight_date": "2024-04-16",
+   "dep_hour": 13,
+   "distance": 652.6,
+   "prev_leg_arr_delay": 48.2,
+   "prev_leg_dep_delay": 151.6,
+   "leg_of_day": 3
+  },
+  "probability": 0.91608065366745,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "SLN",
+   "dest": "BUF",
+   "flight_date": "2024-04-24",
+   "dep_hour": 8,
+   "distance": 2267.1,
+   "prev_leg_arr_delay": 149.8,
+   "prev_leg_dep_delay": 23.2,
+   "leg_of_day": 6
+  },
+  "probability": 0.9014853835105896,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "ZZZ",
+   "dest": "CMH",
+   "flight_date": "2024-04-29",
+   "dep_hour": 20,
+   "distance": 1486.3,
+   "prev_leg_arr_delay": 134.9,
+   "prev_leg_dep_delay": 43.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.7481736540794373,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "DAY",
+   "dest": "GSO",
+   "flight_date": "2024-04-16",
+   "dep_hour": 20,
+   "distance": 341.9,
+   "prev_leg_arr_delay": 24.6,
+   "prev_leg_dep_delay": 55.3,
+   "leg_of_day": 5
+  },
+  "probability": 0.5560597777366638,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "MOB",
+   "dest": "SWO",
+   "flight_date": "2024-04-07",
+   "dep_hour": 18,
+   "distance": 1646.4,
+   "prev_leg_arr_delay": 6.7,
+   "prev_leg_dep_delay": 137.2,
+   "leg_of_day": 3
+  },
+  "probability": 0.07822983711957932,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "ORF",
+   "dest": "MCW",
+   "flight_date": "2024-04-20",
+   "dep_hour": 9,
+   "distance": 1341.4,
+   "prev_leg_arr_delay": 152.3,
+   "prev_leg_dep_delay": 109.9,
+   "leg_of_day": 3
+  },
+  "probability": 0.7796358466148376,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "BLI",
+   "dest": "LBB",
+   "flight_date": "2024-04-08",
+   "dep_hour": 10,
+   "distance": 941.9
+  },
+  "probability": 0.3317379951477051,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "ORD",
+   "dest": "LIH",
+   "flight_date": "2024-04-24",
+   "dep_hour": 18,
+   "distance": 1496.9,
+   "prev_leg_arr_delay": 5.1,
+   "prev_leg_dep_delay": 151.6,
+   "leg_of_day": 2
+  },
+  "probability": 0.16383276879787445,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "BOI",
+   "dest": "MHK",
+   "flight_date": "2024-04-04",
+   "dep_hour": 3,
+   "distance": 253.5,
+   "prev_leg_arr_delay": 85.2,
+   "prev_leg_dep_delay": -9.9,
+   "leg_of_day": 4
+  },
+  "probability": 0.3979702591896057,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "TTN",
+   "dest": "MEM",
+   "flight_date": "2024-04-10",
+   "dep_hour": 7,
+   "distance": 752.9
+  },
+  "probability": 0.3608739972114563,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "DEN",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-22",
+   "dep_hour": 11,
+   "distance": 2420.2,
+   "prev_leg_arr_delay": 70.0,
+   "prev_leg_dep_delay": 175.1,
+   "leg_of_day": 5
+  },
+  "probability": 0.7148001194000244,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "SBN",
+   "dest": "STT",
+   "flight_date": "2024-04-15",
+   "dep_hour": 20,
+   "distance": 2117.0,
+   "prev_leg_arr_delay": 61.3,
+   "prev_leg_dep_delay": 109.8,
+   "leg_of_day": 5
+  },
+  "probability": 0.7397451400756836,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "FSM",
+   "dest": "ONT",
+   "flight_date": "2024-04-10",
+   "dep_hour": 11,
+   "distance": 1201.2
+  },
+  "probability": 0.41876038908958435,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "CMI",
+   "dest": "PIB",
+   "flight_date": "2024-04-18",
+   "dep_hour": 0,
+   "distance": 1950.7,
+   "prev_leg_arr_delay": 128.6,
+   "prev_leg_dep_delay": 43.4,
+   "leg_of_day": 4
+  },
+  "probability": 0.8713924884796143,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "ABR",
+   "dest": "ECP",
+   "flight_date": "2024-04-14",
+   "dep_hour": 17,
+   "distance": 1268.9
+  },
+  "probability": 0.6838871240615845,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "MCI",
+   "dest": "BOI",
+   "flight_date": "2024-04-14",
+   "dep_hour": 20,
+   "distance": 731.6,
+   "prev_leg_arr_delay": 161.1,
+   "prev_leg_dep_delay": 142.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.9292393922805786,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "HGR",
+   "dest": "BJI",
+   "flight_date": "2024-04-06",
+   "dep_hour": 4,
+   "distance": 867.7,
+   "prev_leg_arr_delay": 99.7,
+   "prev_leg_dep_delay": 38.1,
+   "leg_of_day": 5
+  },
+  "probability": 0.8882182240486145,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "ZZZ",
+   "dest": "SAT",
+   "flight_date": "2024-04-01",
+   "dep_hour": 5,
+   "distance": 2724.7
+  },
+  "probability": 0.340810090303421,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "GCK",
+   "dest": "ACY",
+   "flight_date": "2024-04-16",
+   "dep_hour": 6,
+   "distance": 1010.0,
+   "prev_leg_arr_delay": 137.9,
+   "prev_leg_dep_delay": 179.6,
+   "leg_of_day": 4
+  },
+  "probability": 0.7954564094543457,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "CPR",
+   "dest": "MFE",
+   "flight_date": "2024-04-03",
+   "dep_hour": 17,
+   "distance": 1358.8
+  },
+  "probability": 0.09277234226465225,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "ACV",
+   "dest": "GRI",
+   "flight_date": "2024-04-13",
+   "dep_hour": 14,
+   "distance": 752.3,
+   "prev_leg_arr_delay": 11.8,
+   "prev_leg_dep_delay": 128.4,
+   "leg_of_day": 1
+  },
+  "probability": 0.2796544134616852,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "ITO",
+   "dest": "DAB",
+   "flight_date": "2024-04-21",
+   "dep_hour": 23,
+   "distance": 194.7,
+   "prev_leg_arr_delay": 79.4,
+   "prev_leg_dep_delay": 34.4,
+   "leg_of_day": 6
+  },
+  "probability": 0.9259592890739441,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "FLG",
+   "dest": "GEG",
+   "flight_date": "2024-04-21",
+   "dep_hour": 13,
+   "distance": 962.7
+  },
+  "probability": 0.3412973880767822,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "GNV",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-02",
+   "dep_hour": 18,
+   "distance": 2211.1,
+   "prev_leg_arr_delay": 95.2,
+   "prev_leg_dep_delay": 57.4,
+   "leg_of_day": 1
+  },
+  "probability": 0.903764545917511,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "TTN",
+   "dest": "TWF",
+   "flight_date": "2024-04-02",
+   "dep_hour": 1,
+   "distance": 1047.0
+  },
+  "probability": 0.44129952788352966,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "GCK",
+   "dest": "SGF",
+   "flight_date": "2024-04-26",
+   "dep_hour": 20,
+   "distance": 2138.2,
+   "prev_leg_arr_delay": 62.1,
+   "prev_leg_dep_delay": 22.6,
+   "leg_of_day": 6
+  },
+  "probability": 0.9125364422798157,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "AUS",
+   "dest": "OMA",
+   "flight_date": "2024-04-18",
+   "dep_hour": 9,
+   "distance": 1556.2,
+   "prev_leg_arr_delay": 89.0,
+   "prev_leg_dep_delay": 91.0,
+   "leg_of_day": 3
+  },
+  "probability": 0.8879852294921875,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "STX",
+   "dest": "SFB",
+   "flight_date": "2024-04-06",
+   "dep_hour": 2,
+   "distance": 1524.7,
+   "prev_leg_arr_delay": 142.1,
+   "prev_leg_dep_delay": 90.6,
+   "leg_of_day": 4
+  },
+  "probability": 0.9473049640655518,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "MCO",
+   "dest": "ADQ",
+   "flight_date": "2024-04-20",
+   "dep_hour": 11,
+   "distance": 2190.8
+  },
+  "probability": 0.24897626042366028,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "MEI",
+   "dest": "PVU",
+   "flight_date": "2024-04-25",
+   "dep_hour": 17,
+   "distance": 499.2
+  },
+  "probability": 0.16846448183059692,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "ROC",
+   "dest": "AVP",
+   "flight_date": "2024-04-27",
+   "dep_hour": 4,
+   "distance": 565.9
+  },
+  "probability": 0.2859281003475189,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "SJU",
+   "dest": "MEI",
+   "flight_date": "2024-04-22",
+   "dep_hour": 15,
+   "distance": 1510.2,
+   "prev_leg_arr_delay": 23.7,
+   "prev_leg_dep_delay": 56.4,
+   "leg_of_day": 5
+  },
+  "probability": 0.7794765830039978,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "FAI",
+   "dest": "BOI",
+   "flight_date": "2024-04-15",
+   "dep_hour": 20,
+   "distance": 245.1,
+   "prev_leg_arr_delay": 167.0,
+   "prev_leg_dep_delay": 66.1,
+   "leg_of_day": 3
+  },
+  "probability": 0.8790600299835205,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "HDN",
+   "dest": "BLI",
+   "flight_date": "2024-04-27",
+   "dep_hour": 9,
+   "distance": 292.0
+  },
+  "probability": 0.1887754201889038,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AA",
+   "origin": "SAN",
+   "dest": "EKO",
+   "flight_date": "2024-04-17",
+   "dep_hour": 21,
+   "distance": 756.6,
+   "prev_leg_arr_delay": 7.6,
+   "prev_leg_dep_delay": 131.1,
+   "leg_of_day": 4
+  },
+  "probability": 0.20420922338962555,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "UA",
+   "origin": "LGA",
+   "dest": "MTJ",
+   "flight_date": "2024-04-29",
+   "dep_hour": 3,
+   "distance": 533.7
+  },
+  "probability": 0.20683853328227997,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "SAT",
+   "dest": "ONT",
+   "flight_date": "2024-04-30",
+   "dep_hour": 11,
+   "distance": 2534.8,
+   "prev_leg_arr_delay": 179.3,
+   "prev_leg_dep_delay": 149.7,
+   "leg_of_day": 4
+  },
+  "probability": 0.8389900922775269,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "JMS",
+   "dest": "SHV",
+   "flight_date": "2024-04-18",
+   "dep_hour": 6,
+   "distance": 1100.2,
+   "prev_leg_arr_delay": 126.4,
+   "prev_leg_dep_delay": 55.2,
+   "leg_of_day": 4
+  },
+  "probability": 0.7409234046936035,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "ZZZ",
+   "dest": "HSV",
+   "flight_date": "2024-04-20",
+   "dep_hour": 0,
+   "distance": 1487.9,
+   "prev_leg_arr_delay": 33.4,
+   "prev_leg_dep_delay": 43.6,
+   "leg_of_day": 2
+  },
+  "probability": 0.40218254923820496,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "ZZZ",
+   "dest": "HNL",
+   "flight_date": "2024-04-30",
+   "dep_hour": 17,
+   "distance": 1470.7,
+   "prev_leg_arr_delay": 90.0,
+   "prev_leg_dep_delay": 3.4,
+   "leg_of_day": 4
+  },
+  "probability": 0.8173574209213257,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "SPI",
+   "dest": "GSP",
+   "flight_date": "2024-04-26",
+   "dep_hour": 9,
+   "distance": 330.0,
+   "prev_leg_arr_delay": 162.8,
+   "prev_leg_dep_delay": 128.2,
+   "leg_of_day": 6
+  },
+  "probability": 0.8644830584526062,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "SMF",
+   "dest": "BTM",
+   "flight_date": "2024-04-20",
+   "dep_hour": 20,
+   "distance": 897.1,
+   "prev_leg_arr_delay": 91.0,
+   "prev_leg_dep_delay": 0.3,
+   "leg_of_day": 1
+  },
+  "probability": 0.5962942838668823,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "OGG",
+   "dest": "CHS",
+   "flight_date": "2024-04-28",
+   "dep_hour": 7,
+   "distance": 2113.7,
+   "prev_leg_arr_delay": 165.0,
+   "prev_leg_dep_delay": 108.6,
+   "leg_of_day": 6
+  },
+  "probability": 0.7625887989997864,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "DL",
+   "origin": "JFK",
+   "dest": "CRW",
+   "flight_date": "2024-04-11",
+   "dep_hour": 16,
+   "distance": 1977.9
+  },
+  "probability": 0.438472181558609,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "STS",
+   "dest": "BRO",
+   "flight_date": "2024-04-08",
+   "dep_hour": 13,
+   "distance": 868.2,
+   "prev_leg_arr_delay": -2.2,
+   "prev_leg_dep_delay": 1.1,
+   "leg_of_day": 5
+  },
+  "probability": 0.05499662458896637,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "MQ",
+   "origin": "BQK",
+   "dest": "OGG",
+   "flight_date": "2024-04-25",
+   "dep_hour": 22,
+   "distance": 434.6
+  },
+  "probability": 0.13924241065979004,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "SJU",
+   "dest": "TRI",
+   "flight_date": "2024-04-24",
+   "dep_hour": 16,
+   "distance": 749.8
+  },
+  "probability": 0.5606024861335754,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "SLN",
+   "dest": "MOT",
+   "flight_date": "2024-04-14",
+   "dep_hour": 11,
+   "distance": 1027.4,
+   "prev_leg_arr_delay": 94.7,
+   "prev_leg_dep_delay": -10.3,
+   "leg_of_day": 3
+  },
+  "probability": 0.8507788777351379,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "ONT",
+   "dest": "OME",
+   "flight_date": "2024-04-02",
+   "dep_hour": 7,
+   "distance": 623.1,
+   "prev_leg_arr_delay": 129.1,
+   "prev_leg_dep_delay": 151.3,
+   "leg_of_day": 1
+  },
+  "probability": 0.78171706199646,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "CRP",
+   "dest": "HYS",
+   "flight_date": "2024-04-01",
+   "dep_hour": 10,
+   "distance": 1967.1
+  },
+  "probability": 0.7734211683273315,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "SBA",
+   "dest": "SCE",
+   "flight_date": "2024-04-17",
+   "dep_hour": 8,
+   "distance": 1572.7,
+   "prev_leg_arr_delay": 178.4,
+   "prev_leg_dep_delay": 120.5,
+   "leg_of_day": 6
+  },
+  "probability": 0.8626447916030884,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "RST",
+   "dest": "DEN",
+   "flight_date": "2024-04-02",
+   "dep_hour": 9,
+   "distance": 625.9,
+   "prev_leg_arr_delay": 27.0,
+   "prev_leg_dep_delay": 75.7,
+   "leg_of_day": 1
+  },
+  "probability": 0.48567861318588257,
+  "unknown": [
+   "carrier"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "LGB",
+   "dest": "ADQ",
+   "flight_date": "2024-04-10",
+   "dep_hour": 20,
+   "distance": 1131.3,
+   "prev_leg_arr_delay": 76.8,
+   "prev_leg_dep_delay": 123.4,
+   "leg_of_day": 3
+  },
+  "probability": 0.7390248775482178,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "DVL",
+   "dest": "PBI",
+   "flight_date": "2024-04-18",
+   "dep_hour": 22,
+   "distance": 138.4
+  },
+  "probability": 0.30956757068634033,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "CYS",
+   "dest": "ZZZ",
+   "flight_date": "2024-04-22",
+   "dep_hour": 11,
+   "distance": 1046.6,
+   "prev_leg_arr_delay": 179.2,
+   "prev_leg_dep_delay": 175.8,
+   "leg_of_day": 3
+  },
+  "probability": 0.7878779172897339,
+  "unknown": [
+   "dest"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "MEI",
+   "dest": "ANC",
+   "flight_date": "2024-04-18",
+   "dep_hour": 8,
+   "distance": 693.6,
+   "prev_leg_arr_delay": 52.5,
+   "prev_leg_dep_delay": 11.8,
+   "leg_of_day": 6
+  },
+  "probability": 0.8474599123001099,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "TWF",
+   "dest": "MRY",
+   "flight_date": "2024-04-08",
+   "dep_hour": 18,
+   "distance": 495.5,
+   "prev_leg_arr_delay": 161.0,
+   "prev_leg_dep_delay": 49.2,
+   "leg_of_day": 5
+  },
+  "probability": 0.8606641888618469,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "SBP",
+   "dest": "EVV",
+   "flight_date": "2024-04-28",
+   "dep_hour": 4,
+   "distance": 920.5,
+   "prev_leg_arr_delay": 80.0,
+   "prev_leg_dep_delay": 11.4,
+   "leg_of_day": 2
+  },
+  "probability": 0.518807590007782,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "JAX",
+   "dest": "SAN",
+   "flight_date": "2024-04-24",
+   "dep_hour": 3,
+   "distance": 580.8,
+   "prev_leg_arr_delay": 0.6,
+   "prev_leg_dep_delay": -9.3,
+   "leg_of_day": 3
+  },
+  "probability": 0.22470837831497192,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "IND",
+   "dest": "VEL",
+   "flight_date": "2024-04-30",
+   "dep_hour": 23,
+   "distance": 824.7,
+   "prev_leg_arr_delay": -7.6,
+   "prev_leg_dep_delay": 21.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.021997487172484398,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "GCC",
+   "dest": "GCC",
+   "flight_date": "2024-04-22",
+   "dep_hour": 0,
+   "distance": 1057.2,
+   "prev_leg_arr_delay": 70.1,
+   "prev_leg_dep_delay": 83.0,
+   "leg_of_day": 5
+  },
+  "probability": 0.8083046078681946,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "MEI",
+   "dest": "CMX",
+   "flight_date": "2024-04-06",
+   "dep_hour": 6,
+   "distance": 695.5,
+   "prev_leg_arr_delay": 173.5,
+   "prev_leg_dep_delay": 165.5,
+   "leg_of_day": 4
+  },
+  "probability": 0.5645109415054321,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "EWR",
+   "dest": "OMA",
+   "flight_date": "2024-04-28",
+   "dep_hour": 19,
+   "distance": 1412.6,
+   "prev_leg_arr_delay": 66.1,
+   "prev_leg_dep_delay": 33.1,
+   "leg_of_day": 4
+  },
+  "probability": 0.6035849452018738,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "NK",
+   "origin": "MCO",
+   "dest": "MFR",
+   "flight_date": "2024-04-20",
+   "dep_hour": 23,
+   "distance": 1635.7,
+   "prev_leg_arr_delay": 104.7,
+   "prev_leg_dep_delay": 122.3,
+   "leg_of_day": 1
+  },
+  "probability": 0.7736933827400208,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "AVL",
+   "dest": "GPT",
+   "flight_date": "2024-04-17",
+   "dep_hour": 17,
+   "distance": 1156.1,
+   "prev_leg_arr_delay": 87.1,
+   "prev_leg_dep_delay": 85.6,
+   "leg_of_day": 6
+  },
+  "probability": 0.9862444996833801,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "MHK",
+   "dest": "HTS",
+   "flight_date": "2024-04-15",
+   "dep_hour": 5,
+   "distance": 1229.1,
+   "prev_leg_arr_delay": -18.5,
+   "prev_leg_dep_delay": 85.8,
+   "leg_of_day": 2
+  },
+  "probability": 0.2588996887207031,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "RAP",
+   "dest": "SPN",
+   "flight_date": "2024-04-29",
+   "dep_hour": 22,
+   "distance": 1566.2,
+   "prev_leg_arr_delay": 37.9,
+   "prev_leg_dep_delay": -10.1,
+   "leg_of_day": 4
+  },
+  "probability": 0.5519346594810486,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "PAE",
+   "dest": "JMS",
+   "flight_date": "2024-04-23",
+   "dep_hour": 20,
+   "distance": 2547.5,
+   "prev_leg_arr_delay": 120.9,
+   "prev_leg_dep_delay": 9.1,
+   "leg_of_day": 1
+  },
+  "probability": 0.7157781720161438,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "ROW",
+   "dest": "RHI",
+   "flight_date": "2024-04-20",
+   "dep_hour": 5,
+   "distance": 1110.0,
+   "prev_leg_arr_delay": 131.3,
+   "prev_leg_dep_delay": 162.9,
+   "leg_of_day": 5
+  },
+  "probability": 0.7042812705039978,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "WN",
+   "origin": "CPR",
+   "dest": "BET",
+   "flight_date": "2024-04-14",
+   "dep_hour": 9,
+   "distance": 921.9,
+   "prev_leg_arr_delay": 63.7,
+   "prev_leg_dep_delay": 107.2,
+   "leg_of_day": 1
+  },
+  "probability": 0.9156409502029419,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "ZZZ",
+   "dest": "ACV",
+   "flight_date": "2024-04-15",
+   "dep_hour": 15,
+   "distance": 2406.7,
+   "prev_leg_arr_delay": -28.8,
+   "prev_leg_dep_delay": 157.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.2051846832036972,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "MLU",
+   "dest": "SUN",
+   "flight_date": "2024-04-20",
+   "dep_hour": 0,
+   "distance": 745.6,
+   "prev_leg_arr_delay": 100.2,
+   "prev_leg_dep_delay": 93.7,
+   "leg_of_day": 2
+  },
+  "probability": 0.6797195672988892,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "LBL",
+   "dest": "APN",
+   "flight_date": "2024-04-22",
+   "dep_hour": 18,
+   "distance": 2359.4
+  },
+  "probability": 0.2147103101015091,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "DLH",
+   "dest": "HSV",
+   "flight_date": "2024-04-20",
+   "dep_hour": 21,
+   "distance": 1960.9,
+   "prev_leg_arr_delay": 135.3,
+   "prev_leg_dep_delay": 19.6,
+   "leg_of_day": 4
+  },
+  "probability": 0.592893123626709,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "F9",
+   "origin": "BRW",
+   "dest": "JMS",
+   "flight_date": "2024-04-12",
+   "dep_hour": 12,
+   "distance": 2311.1,
+   "prev_leg_arr_delay": 147.1,
+   "prev_leg_dep_delay": -2.3,
+   "leg_of_day": 4
+  },
+  "probability": 0.7545453310012817,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "KOA",
+   "dest": "ROW",
+   "flight_date": "2024-04-07",
+   "dep_hour": 22,
+   "distance": 648.6
+  },
+  "probability": 0.144578218460083,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OH",
+   "origin": "BQN",
+   "dest": "SWF",
+   "flight_date": "2024-04-30",
+   "dep_hour": 22,
+   "distance": 861.1,
+   "prev_leg_arr_delay": 36.5,
+   "prev_leg_dep_delay": 87.5,
+   "leg_of_day": 5
+  },
+  "probability": 0.48823878169059753,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "AS",
+   "origin": "PVU",
+   "dest": "TYS",
+   "flight_date": "2024-04-16",
+   "dep_hour": 15,
+   "distance": 2277.7,
+   "prev_leg_arr_delay": 18.9,
+   "prev_leg_dep_delay": 41.6,
+   "leg_of_day": 2
+  },
+  "probability": 0.5170207619667053,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "ZZZ",
+   "origin": "ZZZ",
+   "dest": "CHO",
+   "flight_date": "2024-04-24",
+   "dep_hour": 6,
+   "distance": 2254.8,
+   "prev_leg_arr_delay": 56.9,
+   "prev_leg_dep_delay": 50.1,
+   "leg_of_day": 5
+  },
+  "probability": 0.9634975790977478,
+  "unknown": [
+   "carrier",
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "B6",
+   "origin": "ZZZ",
+   "dest": "HRL",
+   "flight_date": "2024-04-09",
+   "dep_hour": 2,
+   "distance": 917.1,
+   "prev_leg_arr_delay": 38.0,
+   "prev_leg_dep_delay": -13.8,
+   "leg_of_day": 6
+  },
+  "probability": 0.7369147539138794,
+  "unknown": [
+   "origin"
+  ]
+ },
+ {
+  "request": {
+   "carrier": "G4",
+   "origin": "TRI",
+   "dest": "DHN",
+   "flight_date": "2024-04-07",
+   "dep_hour": 10,
+   "distance": 2348.0,
+   "prev_leg_arr_delay": 70.6,
+   "prev_leg_dep_delay": 77.5,
+   "leg_of_day": 1
+  },
+  "probability": 0.8957248330116272,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "HA",
+   "origin": "PDX",
+   "dest": "SAV",
+   "flight_date": "2024-04-29",
+   "dep_hour": 10,
+   "distance": 1337.9,
+   "prev_leg_arr_delay": 164.8,
+   "prev_leg_dep_delay": -4.1,
+   "leg_of_day": 5
+  },
+  "probability": 0.9153183698654175,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "SFO",
+   "dest": "FAI",
+   "flight_date": "2024-04-19",
+   "dep_hour": 21,
+   "distance": 982.3,
+   "prev_leg_arr_delay": 137.1,
+   "prev_leg_dep_delay": -2.1,
+   "leg_of_day": 2
+  },
+  "probability": 0.6777772307395935,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "9E",
+   "origin": "MBS",
+   "dest": "DCA",
+   "flight_date": "2024-04-19",
+   "dep_hour": 19,
+   "distance": 1139.6,
+   "prev_leg_arr_delay": 151.6,
+   "prev_leg_dep_delay": 131.6,
+   "leg_of_day": 6
+  },
+  "probability": 0.9524180889129639,
+  "unknown": []
+ },
+ {
+  "request": {
+   "carrier": "OO",
+   "origin": "MOT",
+   "dest": "GFK",
+   "flight_date": "2024-04-12",
+   "dep_hour": 14,
+   "distance": 2336.1,
+   "prev_leg_arr_delay": 80.3,
+   "prev_leg_dep_delay": 19.1,
+   "leg_of_day": 3
+  },
+  "probability": 0.7682904005050659,
+  "unknown": []
+ }
+]
