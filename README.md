@@ -71,7 +71,7 @@ Configuration comes from environment variables (`DB_URL`, `DB_USER`, `DB_PASSWOR
 
 To regenerate the golden fixtures from the Python model, run `scripts/gen_parity_fixtures.py`.
 
-CI config is in [`ci/github-actions.yml`](ci/github-actions.yml). Move it to `.github/workflows/` to enable it.
+Unit tests run in [`.github/workflows/ci.yml`](.github/workflows/ci.yml) on Java 17, which is the `java.version` in `pom.xml`. The fuller draft in [`ci/github-actions.yml`](ci/github-actions.yml) also builds the image and runs integration tests; those steps are not enabled because they were not re-run in the 24 October 2026 assessment. See [TRL self-assessment](docs/TRL-ASSESSMENT.md): laboratory evidence supports TRL 4, not an operational deployment.
 
 ## Interview talking points
 1. **Why port the model instead of calling Python?** Latency and operational simplicity. I walk XGBoost's JSON tree arrays directly: float32 comparisons, `default_left` for missing values, and categorical partition splits where the stored category set goes right. A 500-request golden test proves parity to 2.6e-7.
